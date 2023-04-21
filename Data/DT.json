@@ -1,0 +1,27 @@
+[
+    {
+        "featureID": "1",
+        "yes_child": "exclude",
+        "no_child": "2"
+    },
+    {
+        "featureID": "2",
+        "yes_child": "3",
+        "no_child": "fail"
+    },
+    {
+        "featureID": "3",
+        "yes_child": "4",
+        "no_child": "fail"
+    },
+    {
+        "featureID": "4",
+        "yes_child": "5",
+        "no_child": "fail"
+    },
+    {
+        "featureID": "5",
+        "yes_child": "pass",
+        "no_child": "fail"
+    }
+]
