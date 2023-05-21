@@ -1,0 +1,766 @@
+vha_id,center_name,center_id,cancer_type,Bladder_V65Gy,Bladder_V70Gy,Femur_L_V50Gy,Femur_R_V50Gy,PTV_D2%,PTV_V100% Rx1,Rectum_V50Gy,Rectum_V69Gy,Rectum_V70Gy_15,Rectum_V70Gy_25,Rectum_V75Gy,LargeBowel_D_035cc,LargeBowel_DMax,Bladder - Bladder_Subtraction_Structure (Bladder - Bladder_Subtraction_Structure)_V40Gy,Bladder - Bladder_Subtraction_Structure (Bladder - Bladder_Subtraction_Structure)_V65Gy,Bladder_Already_Subtracted_V40Gy,Bladder_Already_Subtracted_V65Gy,Rectum_V40Gy,Rectum_V65Gy,SmallBowel_D0_035cc,SmallBowel_DMax,SmallBowel_V45Gy
+506-Prostate-01,Ann Arbor,506,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+506-Prostate-02,Ann Arbor,506,Prostate,Green,Red,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+506-Prostate-03,Ann Arbor,506,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+506-Prostate-04,Ann Arbor,506,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+506-Prostate-05,Ann Arbor,506,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+506-Prostate-06,Ann Arbor,506,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+506-Prostate-07,Ann Arbor,506,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+506-Prostate-08,Ann Arbor,506,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+506-Prostate-09,Ann Arbor,506,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+506-Prostate-10,Ann Arbor,506,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+506-Prostate-11,Ann Arbor,506,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+506-Prostate-12,Ann Arbor,506,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+506-Prostate-13,Ann Arbor,506,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Red,Red,,,,,,,,,
+506-Prostate-14,Ann Arbor,506,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+506-Prostate-15,Ann Arbor,506,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Red,Red,,,,,,,,,
+506-Prostate_Surgery-01,Ann Arbor,506,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,Red,Red,Yellow,Green,Green,Green,Red,Green,,,
+506-Prostate_Surgery-02,Ann Arbor,506,Prostate Surgery,,,Green,Green,Green,Red,,,,,,Red,Red,Yellow,Green,Yellow,Green,Red,Green,,,
+506-Prostate_Surgery-03,Ann Arbor,506,Prostate Surgery,,,Green,Green,Green,Red,,,,,,Green,Green,Green,Green,Green,Green,Red,Green,,,
+506-Prostate_Surgery-04,Ann Arbor,506,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Green,Green,Green,Green,Red,Green,,,
+506-Prostate_Surgery-05,Ann Arbor,506,Prostate Surgery,,,Green,Green,Green,Red,,,,,,,,Yellow,Green,,,Red,Red,,,
+508-Prostate-01,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+508-Prostate-02,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+508-Prostate-03,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,,,,,,,,,,,
+508-Prostate-04,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+508-Prostate-05,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Red,Red,,,,,,,,,
+508-Prostate-06,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+508-Prostate-07,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+508-Prostate-08,Atlanta,508,Prostate,Green,Green,,,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+508-Prostate-09,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+508-Prostate-10,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Red,Red,Red,Green,Red,Green,Green,,,,,,,,,
+508-Prostate-11,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+508-Prostate-12,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+508-Prostate-13,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+508-Prostate-14,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+508-Prostate-15,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+508-Prostate-16,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+508-Prostate-17,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,,,,,,,,,
+508-Prostate-18,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Red,Green,Red,,,,,,,,,,,
+508-Prostate-19,Atlanta,508,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+508-Prostate_Surgery-01,Atlanta,508,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,,,Yellow,Green,Yellow,Green,Red,Green,,,
+512-Prostate-01,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-02,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-03,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-04,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+512-Prostate-05,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-06,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-07,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-08,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-09,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-10,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-11,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-12,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-13,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-14,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-15,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-16,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+512-Prostate-17,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+512-Prostate-18,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-19,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+512-Prostate-20,Baltimore,512,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+516-Prostate-01,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate-02,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate-03,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate-04,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate-06,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate-07,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate-08,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+516-Prostate-09,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate-10,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+516-Prostate-11,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate-12,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate-13,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate-14,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate-15,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+516-Prostate-18,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate-19,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate-20,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate-21,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate-22,Bay Pines,516,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+516-Prostate_Surgery-01,Bay Pines,516,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,,,Green,Green,Red,Green,,,
+523-Prostate-02,Boston,523,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+523-Prostate-03,Boston,523,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+523-Prostate-04,Boston,523,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,Green,Green,Green
+523-Prostate-05,Boston,523,Prostate,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+523-Prostate-06,Boston,523,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Red,Red,Green
+523-Prostate-07,Boston,523,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+523-Prostate-08,Boston,523,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+523-Prostate-09,Boston,523,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,,,,,,,,,
+523-Prostate-10,Boston,523,Prostate,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+523-Prostate-11,Boston,523,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+523-Prostate-12,Boston,523,Prostate,Green,Green,Green,Green,Yellow,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+523-Prostate-13,Boston,523,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+523-Prostate-14,Boston,523,Prostate,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,Green,Green,Green
+523-Prostate-15,Boston,523,Prostate,Green,Green,Green,Green,Yellow,Green,Green,Green,Red,Green,Red,Green,Red,,,,,,,Green,Green,Green
+523-Prostate-16,Boston,523,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+523-Prostate-17,Boston,523,Prostate,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,Green,Green,Green
+523-Prostate_Surgery-01,Boston,523,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Red,Red,Yellow,Green,,,Green,Green,Red,Red,Green
+523-Prostate_Surgery-02,Boston,523,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Green,Green,,,Green,Green,Green,Green,Green
+523-Prostate_Surgery-03,Boston,523,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Green,Green,,,Green,Green,Green,Green,Green
+523-Prostate_Surgery-04,Boston,523,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green
+526-Prostate-01,Bronx,526,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+526-Prostate-02,Bronx,526,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+526-Prostate-03,Bronx,526,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+526-Prostate-04,Bronx,526,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+526-Prostate-05,Bronx,526,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+526-Prostate-06,Bronx,526,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+526-Prostate-07,Bronx,526,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+526-Prostate-08,Bronx,526,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+526-Prostate-09,Bronx,526,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+526-Prostate-10,Bronx,526,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+526-Prostate-11,Bronx,526,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Red,,,,,,,,,,,
+526-Prostate-12,Bronx,526,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+526-Prostate-13,Bronx,526,Prostate,Green,Green,Green,Green,Green,Red,Red,Green,Red,Green,Red,,,,,,,,,,,
+526-Prostate-14,Bronx,526,Prostate,Green,Green,Green,Green,Green,Green,Red,Red,Red,Green,Red,,,,,,,,,,,
+526-Prostate-15,Bronx,526,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+526-Prostate-16,Bronx,526,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+526-Prostate_Surgery-01,Bronx,526,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,,,Red,Green,Red,Green,Red,Green,,,
+526-Prostate_Surgery-02,Bronx,526,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,,,Red,Yellow,Red,Yellow,Red,Green,,,
+526-Prostate_Surgery-03,Bronx,526,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,,,Red,Green,Red,Green,Red,Green,,,
+526-Prostate_Surgery-04,Bronx,526,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,,,Red,Yellow,Red,Yellow,Red,Red,,,
+528-Prostate-01,Albany,528,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+528-Prostate-03,Albany,528,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Red,Red,,,,,,,Red,Red,Green
+528-Prostate-04,Albany,528,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Red,Red,,,,,,,Red,Red,Green
+528-Prostate-05,Albany,528,Prostate,Red,Red,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Red,Red,,,,,,,Red,Red,Red
+528-Prostate-06,Albany,528,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+528-Prostate-08,Albany,528,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+528-Prostate-10,Albany,528,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Red,Red,,,,,,,,,
+528-Prostate-11,Albany,528,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+528-Prostate-12,Albany,528,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+528-Prostate-14,Albany,528,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+528-Prostate-16,Albany,528,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,,,
+528-Prostate-17,Albany,528,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,Green,Green,,,,,,,,,
+528-Prostate_Surgery-01,Albany,528,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,Green,Green,,,,,Green,Green,,,
+528-Prostate_Surgery-02,Albany,528,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Red,Red,,,,,Red,Red,,,
+528-Prostate_Surgery-03,Albany,528,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,,,,,Red,Green,,,
+528-Prostate_Surgery-04,Albany,528,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Red,Red,,,Yellow,Green,Red,Green,,,
+541-Prostate-01,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,Green,Green,Green
+541-Prostate-02,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+541-Prostate-04,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+541-Prostate-05,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+541-Prostate-06,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+541-Prostate-07,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+541-Prostate-09,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+541-Prostate-10,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+541-Prostate-11,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+541-Prostate-12,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+541-Prostate-13,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+541-Prostate-15,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+541-Prostate-16,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+541-Prostate-17,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+541-Prostate-18,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+541-Prostate-19,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Green,Green,Red,Red,Red,Red,,,,,,,,,,,
+541-Prostate-20,Cleveland,541,Prostate,Green,Green,Green,Green,Green,Yellow,Red,Red,Red,Red,Red,Red,Red,,,,,,,,,
+541-Prostate_Surgery-01,Cleveland,541,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Red,Red,Yellow,Green,Green,Green,Green,Green,Red,Red,Green
+541-Prostate_Surgery-03,Cleveland,541,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Green,Green,,,Green,Green,Green,Green,Green
+546-Prostate-01,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate-02,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate-03,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+546-Prostate-04,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate-05,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate-06,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate-07,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+546-Prostate-08,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate-09,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate-10,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate-11,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate-12,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate-13,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate-14,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate-15,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate-16,Miami,546,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate-17,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate-18,Miami,546,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+546-Prostate_Surgery-01,Miami,546,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Green,Green,,,Green,Green,,,
+546-Prostate_Surgery-02,Miami,546,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Green,Green,,,Green,Green,,,
+548-Prostate-01,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-02,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-03,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-04,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-05,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-06,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-07,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-08,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-09,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-10,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-12,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-13,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-14,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-15,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-16,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-17,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-18,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate-19,West Palm Beach,548,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+548-Prostate_Surgery-01,West Palm Beach,548,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Green,Green,Green,Green,Green,Green,,,
+549-Prostate-01,Dallas,549,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+549-Prostate-02,Dallas,549,Prostate,Green,Green,Green,,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+549-Prostate-03,Dallas,549,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+549-Prostate-04,Dallas,549,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+549-Prostate-05,Dallas,549,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+549-Prostate-06,Dallas,549,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+549-Prostate-07,Dallas,549,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+549-Prostate-08,Dallas,549,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+549-Prostate-09,Dallas,549,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+549-Prostate-10,Dallas,549,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+549-Prostate-11,Dallas,549,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+549-Prostate-12,Dallas,549,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+549-Prostate-13,Dallas,549,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+549-Prostate-14,Dallas,549,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+549-Prostate_Surgery-01,Dallas,549,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,,,,,,,Green,Green,Green,Green,Green
+549-Prostate_Surgery-02,Dallas,549,Prostate Surgery,,,Green,Green,Green,Red,,,,,,,,Green,Green,,,Green,Green,,,
+549-Prostate_Surgery-03,Dallas,549,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Yellow,Green,Yellow,Green,Red,Green,Green,Green,Green
+549-Prostate_Surgery-04,Dallas,549,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Yellow,Green,Yellow,Green,Green,Green,Green,Green,Green
+549-Prostate_Surgery-05,Dallas,549,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,,,,,Green,Green,Green,Green,Green
+549-Prostate_Surgery-06,Dallas,549,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,,,,,Green,Green,,,
+552-Prostate-01,Dayton,552,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Red,Red,,,,,,,Green,Green,Green
+552-Prostate-02,Dayton,552,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+552-Prostate-03,Dayton,552,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+552-Prostate-04,Dayton,552,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+552-Prostate-05,Dayton,552,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+552-Prostate-06,Dayton,552,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+552-Prostate-07,Dayton,552,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+552-Prostate-08,Dayton,552,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,,,
+552-Prostate-09,Dayton,552,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+552-Prostate_Surgery-01,Dayton,552,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,Green,Green,,,Yellow,Green,Green,Green,Green,Green,Green
+552-Prostate_Surgery-02,Dayton,552,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Red,Red,Green,Green,,,Green,Green,,,
+552-Prostate_Surgery-03,Dayton,552,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Green,Green,,,Green,Green,Green,Green,Green
+552-Prostate_Surgery-04,Dayton,552,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Green,Green,,,Green,Green,,,
+552-Prostate_Surgery-05,Dayton,552,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Green,Green,,,Green,Green,,,
+552-Prostate_Surgery-06,Dayton,552,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Green,Green,,,Green,Green,,,
+552-Prostate_Surgery-07,Dayton,552,Prostate Surgery,,,Green,Green,Green,Red,,,,,,,,Yellow,Green,,,Green,Green,,,
+552-Prostate_Surgery-08,Dayton,552,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Yellow,Green,,,Green,Green,,,
+552-Prostate_Surgery-09,Dayton,552,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Yellow,Green,,,Green,Green,,,
+552-Prostate_Surgery-10,Dayton,552,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Green,Green,,,Green,Green,,,
+553-Prostate-01,Detroit,553,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,Red,Red,Green
+553-Prostate-02,Detroit,553,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Red,Green,Red,,,,,,,,,Green,Green,Green
+553-Prostate-03,Detroit,553,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+553-Prostate-04,Detroit,553,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+553-Prostate-05,Detroit,553,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+553-Prostate-06,Detroit,553,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+553-Prostate-07,Detroit,553,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+553-Prostate-08,Detroit,553,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+553-Prostate-09,Detroit,553,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+553-Prostate-10,Detroit,553,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,Green,Green,Green
+553-Prostate-12,Detroit,553,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+553-Prostate_Surgery-01,Detroit,553,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Yellow,Green,Yellow,Green,,,Green,Green,Green
+553-Prostate_Surgery-02,Detroit,553,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Red,Yellow,Red,Yellow,,,Green,Red,Green
+553-Prostate_Surgery-03,Detroit,553,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,,,Red,Green,Red,Green,Red,Green,Red,Red,Green
+553-Prostate_Surgery-04,Detroit,553,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,,,Red,Yellow,Red,Yellow,Red,Green,Red,Red,Green
+553-Prostate_Surgery-05,Detroit,553,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Red,Green,Red,Green,Red,Green,,,
+553-Prostate_Surgery-06,Detroit,553,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Red,Yellow,Red,Yellow,Red,Red,Green,Green,Green
+553-Prostate_Surgery-07,Detroit,553,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Red,Green,Red,Green,Red,Green,Green,Green,Green
+553-Prostate_Surgery-08,Detroit,553,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Red,Green,Red,Green,Red,Green,Red,Red,Green
+553-Prostate_Surgery-09,Detroit,553,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Red,Green,Red,Green,Red,Green,Red,Red,Green
+558-Prostate-01,Durham,558,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+558-Prostate-02,Durham,558,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+558-Prostate-03,Durham,558,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+558-Prostate-04,Durham,558,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+558-Prostate-05,Durham,558,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+558-Prostate-07,Durham,558,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+558-Prostate-08,Durham,558,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Red,Red,,,,,,,,,
+558-Prostate-09,Durham,558,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+558-Prostate-10,Durham,558,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+558-Prostate-11,Durham,558,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+558-Prostate-13,Durham,558,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+558-Prostate-14,Durham,558,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+558-Prostate-15,Durham,558,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+558-Prostate-17,Durham,558,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+558-Prostate_Surgery-01,Durham,558,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,,,,,Green,Green,,,
+558-Prostate_Surgery-02,Durham,558,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Green,Green,,,Green,Green,,,
+558-Prostate_Surgery-03,Durham,558,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,,,,,Green,Green,,,
+558-Prostate_Surgery-04,Durham,558,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,,,,,Green,Green,,,
+558-Prostate_Surgery-05,Durham,558,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,,,,,Green,Green,,,
+558-Prostate_Surgery-06,Durham,558,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Red,Green,,,Green,Green,,,
+561-Prostate-01,East Orange,561,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+561-Prostate-02,East Orange,561,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Red,Green,Red,Red,Red,,,,,,,Red,Red,Green
+561-Prostate-03,East Orange,561,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+561-Prostate-06,East Orange,561,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+561-Prostate-08,East Orange,561,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,,,
+561-Prostate-09,East Orange,561,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,,,,,,,,,
+561-Prostate-10,East Orange,561,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+561-Prostate-11,East Orange,561,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+561-Prostate-12,East Orange,561,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,Green,Green,Green
+561-Prostate-14,East Orange,561,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+561-Prostate-15,East Orange,561,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+561-Prostate-16,East Orange,561,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+561-Prostate-17,East Orange,561,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+561-Prostate-18,East Orange,561,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,Green,Green,Green
+561-Prostate-19,East Orange,561,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+561-Prostate_Surgery-01,East Orange,561,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Red,Red,Red,Green,Red,Green,Green,Green,Green,Green,Green
+561-Prostate_Surgery-02,East Orange,561,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Red,Green,Red,Green,Red,Green,,,
+561-Prostate_Surgery-03,East Orange,561,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Yellow,Green,Yellow,Green,Green,Green,Green,Green,Green
+561-Prostate_Surgery-04,East Orange,561,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Yellow,Green,Yellow,Green,Green,Green,,,
+578-Prostate-01,Hines,578,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,Green,Green,Green
+578-Prostate-02,Hines,578,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+578-Prostate-05,Hines,578,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+578-Prostate-07,Hines,578,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+578-Prostate-08,Hines,578,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+578-Prostate-11,Hines,578,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+578-Prostate-14,Hines,578,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+578-Prostate-16,Hines,578,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Red,Red,,,,,,,,,
+578-Prostate-17,Hines,578,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,Red,,,,,,,,,
+578-Prostate-18,Hines,578,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,
+578-Prostate-19,Hines,578,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+578-Prostate-22,Hines,578,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+578-Prostate-24,Hines,578,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+578-Prostate-25,Hines,578,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+578-Prostate-26,Hines,578,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+578-Prostate-27,Hines,578,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+578-Prostate_Surgery-02,Hines,578,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,,,Green,Green,Green,Green,,,
+578-Prostate_Surgery-03,Hines,578,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Red,Red,Green,Green,,,Red,Red,Green,Green,Green
+578-Prostate_Surgery-04,Hines,578,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Red,Red,,,,,Red,Green,Red,Red,Green
+580-Prostate-01,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+580-Prostate-02,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+580-Prostate-03,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Red,Red,Green
+580-Prostate-04,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+580-Prostate-05,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Red,Red,Green
+580-Prostate-06,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+580-Prostate-07,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Red,Green
+580-Prostate-08,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+580-Prostate-09,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+580-Prostate-10,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+580-Prostate-11,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+580-Prostate-12,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+580-Prostate-13,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+580-Prostate-14,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+580-Prostate-16,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,,,,,,,Green,Green,Green
+580-Prostate-17,Houston,580,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+580-Prostate_Surgery-01,Houston,580,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Yellow,Green,Yellow,Green,Green,Green,Green,Green,Green
+580-Prostate_Surgery-02,Houston,580,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green
+580-Prostate_Surgery-03,Houston,580,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Yellow,Green,Yellow,Green,Red,Green,Green,Green,Green
+580-Prostate_Surgery-04,Houston,580,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Green,Green,Green,Green,Red,Green,,,
+583-Prostate-01,Indianapolis,583,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Red,Green,Red,Red,Red,,,,,,,Green,Green,Green
+583-Prostate-02,Indianapolis,583,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Red,Green,Green,,,,,,,Green,Green,Green
+583-Prostate-03,Indianapolis,583,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+583-Prostate-04,Indianapolis,583,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+583-Prostate-05,Indianapolis,583,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+583-Prostate-06,Indianapolis,583,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+583-Prostate-07,Indianapolis,583,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+583-Prostate-08,Indianapolis,583,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+583-Prostate-09,Indianapolis,583,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+583-Prostate-10,Indianapolis,583,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+583-Prostate-11,Indianapolis,583,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+583-Prostate-12,Indianapolis,583,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+583-Prostate-13,Indianapolis,583,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+583-Prostate_Surgery-01,Indianapolis,583,Prostate Surgery,,,Green,Green,Green,Red,,,,,,Green,Green,Yellow,Green,,,Red,Green,Green,Green,Green
+583-Prostate_Surgery-02,Indianapolis,583,Prostate Surgery,,,Green,Green,Green,Red,,,,,,Red,Red,Yellow,Green,,,Green,Green,Green,Green,Green
+583-Prostate_Surgery-03,Indianapolis,583,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,Green
+583-Prostate_Surgery-04,Indianapolis,583,Prostate Surgery,,,Green,Green,Green,Red,,,,,,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,Green
+583-Prostate_Surgery-05,Indianapolis,583,Prostate Surgery,,,Green,Green,Green,Red,,,,,,Green,Green,Yellow,Green,,,Green,Green,Green,Green,Green
+583-Prostate_Surgery-06,Indianapolis,583,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,Red,Red,Green,Green,,,Green,Green,Green,Green,Green
+583-Prostate_Surgery-07,Indianapolis,583,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Yellow,Green,,,Green,Green,Green,Green,Green
+586-Prostate-01,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Red,Red,Green
+586-Prostate-02,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+586-Prostate-03,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+586-Prostate-04,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+586-Prostate-05,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+586-Prostate-06,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+586-Prostate-07,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+586-Prostate-08,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+586-Prostate-09,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+586-Prostate-10,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+586-Prostate-11,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+586-Prostate-12,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+586-Prostate-14,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+586-Prostate-15,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+586-Prostate-16,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,,,
+586-Prostate-17,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+586-Prostate-21,Jackson,586,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+586-Prostate_Surgery-01,Jackson,586,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Green,Green,,,Green,Green,,,
+586-Prostate_Surgery-02,Jackson,586,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Green,Green,,,Green,Green,,,
+586-Prostate_Surgery-04,Jackson,586,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Green,Green,,,Green,Green,,,
+589-Prostate-01,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+589-Prostate-02,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+589-Prostate-03,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+589-Prostate-04,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+589-Prostate-05,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+589-Prostate-06,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+589-Prostate-07,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+589-Prostate-08,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+589-Prostate-09,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+589-Prostate-10,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+589-Prostate-11,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+589-Prostate-12,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+589-Prostate-13,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+589-Prostate-14,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Green,Green,Red,Red,Red,Red,,,,,,,,,Red,Red,Green
+589-Prostate-15,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+589-Prostate-16,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+589-Prostate-17,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+589-Prostate-18,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+589-Prostate-19,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+589-Prostate-20,Kansas City,589,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,Red,Red,Green
+600-Prostate-01,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+600-Prostate-02,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+600-Prostate-03,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+600-Prostate-04,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+600-Prostate-05,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+600-Prostate-06,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+600-Prostate-07,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+600-Prostate-08,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+600-Prostate-09,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+600-Prostate-10,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,,,,,,,,,
+600-Prostate-11,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+600-Prostate-12,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,,,,,,,,,
+600-Prostate-13,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Red,Red,Green
+600-Prostate-14,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+600-Prostate-15,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+600-Prostate-16,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+600-Prostate-17,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+600-Prostate-18,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+600-Prostate-19,Long Beach,600,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,,,,,,,,,
+600-Prostate_Surgery-01,Long Beach,600,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,,,,,Green,Green,,,
+614-Prostate-01,Memphis,614,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+614-Prostate-02,Memphis,614,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+614-Prostate-03,Memphis,614,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+614-Prostate-04,Memphis,614,Prostate,Green,Green,Green,Green,Green,Green,Red,Red,Red,Red,Red,,,,,,,,,,,
+614-Prostate-05,Memphis,614,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+614-Prostate-06,Memphis,614,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+614-Prostate-07,Memphis,614,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+614-Prostate-08,Memphis,614,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+614-Prostate-09,Memphis,614,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+614-Prostate-10,Memphis,614,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,,,
+614-Prostate_Surgery-01,Memphis,614,Prostate Surgery,,,Green,Green,Green,Red,,,,,,,,,,,,Red,Red,,,
+614-Prostate_Surgery-02,Memphis,614,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,,,,,,,Red,Green,Green,Green,Green
+614-Prostate_Surgery-03,Memphis,614,Prostate Surgery,,,Green,Green,Green,Red,,,,,,,,,,,,Red,Red,,,
+614-Prostate_Surgery-04,Memphis,614,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,,,,,,,Green,Green,,,
+614-Prostate_Surgery-05,Memphis,614,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,,,,,Red,Green,,,
+614-Prostate_Surgery-06,Memphis,614,Prostate Surgery,,,Green,Green,Green,Red,,,,,,,,,,,,Red,Red,,,
+614-Prostate_Surgery-07,Memphis,614,Prostate Surgery,,,Green,Green,Green,Red,,,,,,,,,,,,Red,Red,,,
+614-Prostate_Surgery-08,Memphis,614,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,,,,,,,Red,Green,,,
+614-Prostate_Surgery-09,Memphis,614,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,,,,,Red,Green,,,
+614-Prostate_Surgery-10,Memphis,614,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,,,,,,,Red,Green,,,
+618-Prostate-01,Minneapolis,618,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+618-Prostate-03,Minneapolis,618,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+618-Prostate-05,Minneapolis,618,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+618-Prostate-07,Minneapolis,618,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Red,Red,Green
+618-Prostate-09,Minneapolis,618,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+618-Prostate-11,Minneapolis,618,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+618-Prostate-12,Minneapolis,618,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+618-Prostate-14,Minneapolis,618,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+618-Prostate-15,Minneapolis,618,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+618-Prostate-16,Minneapolis,618,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+618-Prostate-17,Minneapolis,618,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+618-Prostate-18,Minneapolis,618,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,,,,,,,Red,Red,Green
+618-Prostate-19,Minneapolis,618,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+618-Prostate-20,Minneapolis,618,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+618-Prostate_Surgery-01,Minneapolis,618,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Green,Green,Green,Green,Green,Green,Green,Green,Green
+621-Prostate-01,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+621-Prostate-02,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+621-Prostate-03,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+621-Prostate-04,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+621-Prostate-05,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+621-Prostate-06,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+621-Prostate-07,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+621-Prostate-09,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,,,
+621-Prostate-10,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+621-Prostate-11,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Red,Green,Red,,,,,,,,,,,
+621-Prostate-12,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+621-Prostate-13,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+621-Prostate-14,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+621-Prostate-15,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+621-Prostate-16,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+621-Prostate-17,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+621-Prostate-18,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+621-Prostate-20,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+621-Prostate-22,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+621-Prostate-23,"Mountain Home, TN",621,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+630-Prostate-05,Brooklyn,630,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+630-Prostate-07,Brooklyn,630,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+630-Prostate-09,Brooklyn,630,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+630-Prostate-10,Brooklyn,630,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+630-Prostate-11,Brooklyn,630,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+630-Prostate-12,Brooklyn,630,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+630-Prostate-13,Brooklyn,630,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+630-Prostate-14,Brooklyn,630,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+630-Prostate-15,Brooklyn,630,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+630-Prostate-16,Brooklyn,630,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+630-Prostate-17,Brooklyn,630,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+630-Prostate-18,Brooklyn,630,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+630-Prostate-20,Brooklyn,630,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Red,Green
+630-Prostate-21,Brooklyn,630,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Green,Green,,,,,,,Red,Red,Green
+630-Prostate_Surgery-01,Brooklyn,630,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green
+630-Prostate_Surgery-02,Brooklyn,630,Prostate Surgery,,,Green,Green,Green,Red,,,,,,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,Green
+630-Prostate_Surgery-03,Brooklyn,630,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,Green
+632-Prostate-01,Northport,632,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+632-Prostate-02,Northport,632,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+632-Prostate-05,Northport,632,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+632-Prostate-06,Northport,632,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+632-Prostate-08,Northport,632,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,Green,Green,Green
+632-Prostate-09,Northport,632,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,Green,Green,Green
+632-Prostate-11,Northport,632,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+632-Prostate-12,Northport,632,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,,,,,,,Green,Green,Green
+632-Prostate-13,Northport,632,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+632-Prostate-15,Northport,632,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,,,,,,,Green,Green,Green
+632-Prostate-16,Northport,632,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+632-Prostate-17,Northport,632,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+632-Prostate-18,Northport,632,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,,,,,,,Green,Green,Green
+632-Prostate-19,Northport,632,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,,,,,,,Green,Green,Green
+632-Prostate-20,Northport,632,Prostate,Green,Red,Green,Green,Green,Yellow,Green,Green,Red,Green,Red,Red,Red,,,,,,,Green,Green,Green
+635-Prostate-01,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+635-Prostate-02,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+635-Prostate-03,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+635-Prostate-04,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+635-Prostate-05,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+635-Prostate-06,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+635-Prostate-07,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+635-Prostate-08,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+635-Prostate-09,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+635-Prostate-10,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+635-Prostate-11,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+635-Prostate-12,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+635-Prostate-13,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+635-Prostate-14,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+635-Prostate-15,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+635-Prostate-16,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+635-Prostate-17,Oklahoma City,635,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+635-Prostate_Surgery-01,Oklahoma City,635,Prostate Surgery,,,Green,Green,Yellow,Yellow,,,,,,,,Yellow,Green,Green,Green,Red,Green,,,
+635-Prostate_Surgery-02,Oklahoma City,635,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,,,Red,Green,Yellow,Green,Red,Green,,,
+635-Prostate_Surgery-03,Oklahoma City,635,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Yellow,Green,,,Red,Green,,,
+642-Prostate-01,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+642-Prostate-02,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Red,Green,Red,,,,,,,Green,Green,Green
+642-Prostate-03,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+642-Prostate-04,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+642-Prostate-05,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+642-Prostate-06,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+642-Prostate-07,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Red,Green,Green,,,,,,,Green,Green,Green
+642-Prostate-08,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+642-Prostate-09,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+642-Prostate-10,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Red,Green
+642-Prostate-11,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+642-Prostate-12,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+642-Prostate-13,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Red,Red,,,,,,,Green,Green,Green
+642-Prostate-14,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+642-Prostate-15,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+642-Prostate-16,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Red,Red,Green
+642-Prostate-17,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,Green,Green,Green
+642-Prostate-18,Philadelphia,642,Prostate,Green,Green,Green,,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+642-Prostate-19,Philadelphia,642,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Red,Red,Green
+642-Prostate_Surgery-01,Philadelphia,642,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Red,Green,Red,Green,Green,Green,Green,Green,Green
+646-Prostate-01,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+646-Prostate-02,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+646-Prostate-03,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+646-Prostate-04,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,Red,Red,Green
+646-Prostate-05,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Red,Red,Red,Red,Red,Green,Green,,,,,,,Red,Red,Green
+646-Prostate-06,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+646-Prostate-07,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Yellow,Red,Red,Red,Red,Red,Green,Green,,,,,,,Red,Red,Green
+646-Prostate-08,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+646-Prostate-09,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Red,Red,Red,Red,Red,Green,Green,,,,,,,Green,Green,Green
+646-Prostate-10,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+646-Prostate-11,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+646-Prostate-12,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Red,Red,,,,,,,Green,Green,Green
+646-Prostate-14,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+646-Prostate-15,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,,,,,,,Green,Green,Green
+646-Prostate-16,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+646-Prostate-17,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+646-Prostate-18,Pittsburgh,646,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+646-Prostate_Surgery-01,Pittsburgh,646,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,,,,,Green,Green,,,
+646-Prostate_Surgery-02,Pittsburgh,646,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,,,,,Red,Green,Red,Red,Green
+646-Prostate_Surgery-03,Pittsburgh,646,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,,,,,Green,Green,Green,Green,Green
+652-Prostate-02,Richmond,652,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+652-Prostate-05,Richmond,652,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+652-Prostate-06,Richmond,652,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+652-Prostate-07,Richmond,652,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+652-Prostate-09,Richmond,652,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+652-Prostate-11,Richmond,652,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+652-Prostate-12,Richmond,652,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+652-Prostate-13,Richmond,652,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,Green,Green,Green
+652-Prostate-14,Richmond,652,Prostate,Green,Green,Green,Green,Yellow,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+652-Prostate-15,Richmond,652,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+652-Prostate-18,Richmond,652,Prostate,Green,Green,Green,Green,Yellow,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+652-Prostate-19,Richmond,652,Prostate,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+652-Prostate-21,Richmond,652,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+652-Prostate-22,Richmond,652,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+652-Prostate-24,Richmond,652,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+652-Prostate_Surgery-01,Richmond,652,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,,,Red,Green,Green,Green,,,
+652-Prostate_Surgery-02,Richmond,652,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,,,Yellow,Green,,,Red,Green,,,
+657-Prostate-01,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+657-Prostate-02,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+657-Prostate-03,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+657-Prostate-04,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+657-Prostate-05,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+657-Prostate-06,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,Red,Red,Green
+657-Prostate-07,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+657-Prostate-09,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Red,Red,Green
+657-Prostate-10,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Red,Red,Green
+657-Prostate-11,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+657-Prostate-12,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+657-Prostate-13,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+657-Prostate-15,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+657-Prostate-16,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,Green,Green,Green
+657-Prostate-17,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+657-Prostate-18,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+657-Prostate-19,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+657-Prostate-20,St. Louis,657,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+657-Prostate_Surgery-01,St. Louis,657,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Red,Red,Yellow,Green,,,Red,Red,Green,Green,Green
+663-Prostate-01,Seattle,663,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+663-Prostate-02,Seattle,663,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+663-Prostate-03,Seattle,663,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+663-Prostate-04,Seattle,663,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+663-Prostate-05,Seattle,663,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+663-Prostate-07,Seattle,663,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+663-Prostate-08,Seattle,663,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+663-Prostate-14,Seattle,663,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+663-Prostate-15,Seattle,663,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+663-Prostate-16,Seattle,663,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,,,
+663-Prostate_Surgery-01,Seattle,663,Prostate Surgery,,,Green,Green,Green,Red,,,,,,,,Yellow,Green,Green,Green,Red,Green,,,
+667-Prostate-01,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Red,Red,Red,Red,Green,Green,Red,Red,,,,,,,Green,Green,Green
+667-Prostate-02,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Red,Red,Red,,,,,,,Green,Green,Green
+667-Prostate-03,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,Red,Red,,,,,,,Green,Green,Green
+667-Prostate-04,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,Green,Green,,,,,,,Green,Green,Green
+667-Prostate-05,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+667-Prostate-06,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+667-Prostate-07,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+667-Prostate-08,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,Green,Green,,,,,,,Green,Green,Green
+667-Prostate-09,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,,,,,,,Green,Green,Green
+667-Prostate-10,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+667-Prostate-11,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,Green,Green,,,,,,,Green,Green,Green
+667-Prostate-12,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+667-Prostate-13,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Yellow,Red,Green,Red,Green,Green,Green,Green,,,,,,,Green,Green,Green
+667-Prostate-14,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Red,Green,Green,Green,Green,,,,,,,Green,Green,Green
+667-Prostate-15,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Red,Green,Green,Green,Green,,,,,,,Green,Green,Green
+667-Prostate-16,Shreveport,667,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+667-Prostate_Surgery-01,Shreveport,667,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Red,Green,,,Red,Green,Green,Green,Green
+667-Prostate_Surgery-02,Shreveport,667,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Red,Green,,,Red,Green,Green,Green,Green
+667-Prostate_Surgery-03,Shreveport,667,Prostate Surgery,,,Green,Green,Green,Red,,,,,,Green,Green,Red,Green,,,Red,Green,Green,Green,Green
+667-Prostate_Surgery-04,Shreveport,667,Prostate Surgery,,,Green,Green,Green,Red,,,,,,Green,Green,Red,Green,,,Red,Green,Green,Green,Green
+671-Prostate-01,San Antonio,671,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+671-Prostate-02,San Antonio,671,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Red,Red,Green
+671-Prostate-05,San Antonio,671,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+671-Prostate-06,San Antonio,671,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+671-Prostate-07,San Antonio,671,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+671-Prostate-08,San Antonio,671,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+671-Prostate-09,San Antonio,671,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+671-Prostate-10,San Antonio,671,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+671-Prostate-11,San Antonio,671,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,Red,Green,Green,,,,,,,,,
+671-Prostate-12,San Antonio,671,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+671-Prostate-13,San Antonio,671,Prostate,Green,Green,Green,Green,Green,Red,Green,Green,Red,Green,Red,Green,Green,,,,,,,Red,Red,Green
+671-Prostate-14,San Antonio,671,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Red,Red,,,,,,,,,
+671-Prostate_Surgery-01,San Antonio,671,Prostate Surgery,,,Green,Green,Green,Red,,,,,,Green,Green,Yellow,Green,Yellow,Green,Green,Green,Red,Red,Green
+671-Prostate_Surgery-02,San Antonio,671,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,Red,Red,,,,,Green,Green,Red,Red,Green
+671-Prostate_Surgery-03,San Antonio,671,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,Green,Green,,,Yellow,Green,Green,Green,Green,Green,Green
+671-Prostate_Surgery-04,San Antonio,671,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,Green,Green,,,,,Green,Green,Red,Red,Green
+671-Prostate_Surgery-05,San Antonio,671,Prostate Surgery,,,Green,Green,Green,Yellow,,,,,,Green,Green,,,,,Red,Green,Red,Red,Green
+671-Prostate_Surgery-06,San Antonio,671,Prostate Surgery,,,Green,Green,Green,Red,,,,,,Green,Green,,,,,Green,Green,Red,Red,Green
+671-Prostate_Surgery-07,San Antonio,671,Prostate Surgery,,,Green,Green,Green,Red,,,,,,Green,Green,Red,Yellow,Red,Green,Red,Red,,,
+671-Prostate_Surgery-08,San Antonio,671,Prostate Surgery,,,Green,Green,Green,Red,,,,,,Green,Green,Red,Yellow,Red,Green,Green,Green,Red,Red,Green
+672-Prostate-01,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+672-Prostate-02,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+672-Prostate-03,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+672-Prostate-04,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+672-Prostate-05,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+672-Prostate-06,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+672-Prostate-07,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+672-Prostate-08,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,Green,Green,Green
+672-Prostate-09,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+672-Prostate-10,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,Green,Green,Green
+672-Prostate-11,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,Green,Green,Green
+672-Prostate-12,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+672-Prostate-13,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,Green,Green,Green
+672-Prostate-14,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,Green,Green,Green
+672-Prostate-15,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+672-Prostate-16,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+672-Prostate-17,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+672-Prostate-18,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+672-Prostate-19,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,Green,Green,Green
+672-Prostate-20,San Juan,672,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,Green,Green,Green
+673-Prostate-01,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+673-Prostate-02,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+673-Prostate-03,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+673-Prostate-04,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+673-Prostate-05,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,,,,,,,Green,Green,Green
+673-Prostate-06,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,,,,,,,Green,Green,Green
+673-Prostate-07,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+673-Prostate-08,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+673-Prostate-09,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+673-Prostate-10,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+673-Prostate-11,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+673-Prostate-12,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+673-Prostate-13,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+673-Prostate-14,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+673-Prostate-15,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+673-Prostate-16,Tampa,673,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+673-Prostate_Surgery-01,Tampa,673,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,,,Red,Green,Green,Green,,,
+673-Prostate_Surgery-02,Tampa,673,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,,,,,Green,Green,,,
+673-Prostate_Surgery-03,Tampa,673,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Red,Red,Red,Green,,,Red,Green,,,
+673-Prostate_Surgery-04,Tampa,673,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Red,Red,,,,,Green,Green,,,
+675-Prostate-01,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+675-Prostate-02,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+675-Prostate-03,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+675-Prostate-04,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+675-Prostate-05,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+675-Prostate-06,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+675-Prostate-07,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+675-Prostate-08,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,,,,,,,,,
+675-Prostate-09,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+675-Prostate-10,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+675-Prostate-11,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+675-Prostate-12,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+675-Prostate-13,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+675-Prostate-14,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+675-Prostate-15,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Red,Red,,,,,,,,,
+675-Prostate-16,Orlando,675,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+675-Prostate_Surgery-01,Orlando,675,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Green,Green,Green,Green,Green,Green,,,
+675-Prostate_Surgery-02,Orlando,675,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Red,Green,Red,Green,Red,Green,,,
+675-Prostate_Surgery-03,Orlando,675,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Red,Red,Yellow,Green,Yellow,Green,Green,Green,,,
+675-Prostate_Surgery-04,Orlando,675,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Yellow,Green,Yellow,Green,Green,Green,,,
+688-Prostate-01,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+688-Prostate-02,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+688-Prostate-04,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+688-Prostate-05,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+688-Prostate-06,Washington,688,Prostate,Green,Green,Green,,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+688-Prostate-07,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,,,
+688-Prostate-08,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+688-Prostate-10,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+688-Prostate-11,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+688-Prostate-12,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+688-Prostate-13,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+688-Prostate-14,Washington,688,Prostate,Green,Red,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+688-Prostate-15,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+688-Prostate-16,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,Green,Green,Green
+688-Prostate-17,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+688-Prostate-18,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,,,
+688-Prostate-19,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+688-Prostate-20,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+688-Prostate-21,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,,,,,,,,,,,
+688-Prostate-22,Washington,688,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+691-Prostate-01,Los Angeles,691,Prostate,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+691-Prostate-02,Los Angeles,691,Prostate,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+691-Prostate-03,Los Angeles,691,Prostate,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+691-Prostate-04,Los Angeles,691,Prostate,Green,Green,,,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+691-Prostate-05,Los Angeles,691,Prostate,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+691-Prostate-06,Los Angeles,691,Prostate,Green,Green,,,Green,Green,Green,Green,Green,Green,Red,,,,,,,,,Green,Green,Green
+691-Prostate-07,Los Angeles,691,Prostate,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+691-Prostate-08,Los Angeles,691,Prostate,Green,Green,,,Green,Green,Red,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+691-Prostate-10,Los Angeles,691,Prostate,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+691-Prostate-11,Los Angeles,691,Prostate,Green,Green,,,Yellow,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+691-Prostate-12,Los Angeles,691,Prostate,Green,Green,,,Green,Green,Red,Green,Red,Green,Red,,,,,,,,,,,
+691-Prostate-13,Los Angeles,691,Prostate,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+691-Prostate-14,Los Angeles,691,Prostate,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,Green,Green,Green
+691-Prostate-15,Los Angeles,691,Prostate,Green,Green,,,Green,Yellow,Green,Green,Green,Green,Green,,,,,,,,,,,
+691-Prostate-16,Los Angeles,691,Prostate,Green,Green,,,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+691-Prostate-17,Los Angeles,691,Prostate,Green,Green,,,Green,Green,Red,Green,Green,Green,Green,Red,Red,,,,,,,Red,Red,Green
+691-Prostate_Surgery-01,Los Angeles,691,Prostate Surgery,,,,,Green,Yellow,,,,,,,,Yellow,Green,,,Red,Green,,,
+691-Prostate_Surgery-02,Los Angeles,691,Prostate Surgery,,,,,Yellow,Yellow,,,,,,Green,Green,Yellow,Green,,,Red,Green,Green,Green,Green
+691-Prostate_Surgery-03,Los Angeles,691,Prostate Surgery,,,,,Green,Green,,,,,,,,,,Green,Green,Green,Green,Green,Green,Green
+691-Prostate_Surgery-04,Los Angeles,691,Prostate Surgery,,,,,Green,Green,,,,,,Green,Green,Yellow,Green,,,Red,Green,Red,Red,Green
+695-Prostate-01,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Green,,,,,,,Red,Red,Green
+695-Prostate-02,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Red,Green,Green,Red,Red,,,,,,,Red,Red,Green
+695-Prostate-03,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,,,
+695-Prostate-04,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+695-Prostate-05,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+695-Prostate-06,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+695-Prostate-07,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+695-Prostate-08,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+695-Prostate-09,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,Red,Red,,,,,,,Green,Green,Green
+695-Prostate-10,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Yellow,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+695-Prostate-11,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,
+695-Prostate-12,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,,,,,
+695-Prostate-13,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,Red,Red,Green
+695-Prostate-14,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Red,Green,Red,Green,Red,Green,Green,,,,,,,Green,Green,Green
+695-Prostate-15,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Green,Green
+695-Prostate-17,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Red,Red,,,,,,,Red,Red,Green
+695-Prostate-19,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,Green,,,,,,,Green,Red,Green
+695-Prostate-20,Milwaukee,695,Prostate,Green,Green,Green,Green,Green,Green,Green,Green,Red,Green,Green,Green,Green,,,,,,,Green,Green,Green
+695-Prostate_Surgery-01,Milwaukee,695,Prostate Surgery,,,Green,Green,Green,Green,,,,,,Green,Green,Green,Green,,,Red,Green,Green,Green,Green
+695-Prostate_Surgery-02,Milwaukee,695,Prostate Surgery,,,Green,Green,Green,Green,,,,,,,,Yellow,Green,Yellow,Green,Red,Green,Green,Green,Green

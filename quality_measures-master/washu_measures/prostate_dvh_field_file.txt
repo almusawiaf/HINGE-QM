@@ -1,0 +1,25 @@
+vha_id
+center_name
+center_id
+cancer_type
+Bladder_V65Gy
+Rectum_V70Gy
+Femur_L_V50Gy
+Femur_R_V50Gy
+PTV_D2%
+PTV_V100% Rx1
+Rectum_V50Gy
+Rectum_V69Gy
+Bladder_V70Gy
+Rectum_V75Gy
+LargeBowel_D0-dot-035cc
+LargeBowel_DMax
+Bladder - Bladder_Subtraction_Structure (Bladder - Bladder_Subtraction_Structure)_V40Gy 
+Bladder - Bladder_Subtraction_Structure (Bladder - Bladder_Subtraction_Structure)_V65Gy
+Bladder_Already_Subtracted_V40Gy
+Bladder_Already_Subtracted_V65Gy
+Rectum_V40Gy
+Rectum_V65Gy
+SmallBowel_D0-dot-035cc
+SmallBowel_DMax
+SmallBowel_V45Gy

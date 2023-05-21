@@ -1,0 +1,1 @@
+These are manually calculated measures, output of the program calculating measures should math with this output for respective patients

@@ -1,0 +1,775 @@
+vha_id,center_name,center_id,cancer_type,LungEsophagitisTotal,LungEsophagitisWithGrade,LungPneumonitisTotal,LungPneumonitisWithGrade,NumberOfNotesWithToxicityInitialized,QualityMeasure1,QualityMeasure10,QualityMeasure11,QualityMeasure12,QualityMeasure13,QualityMeasure14,QualityMeasure15,QualityMeasure15Chemo,QualityMeasure15RT,QualityMeasure15Surgery,QualityMeasure16,QualityMeasure17,QualityMeasure18,QualityMeasure19,QualityMeasure19_color,QualityMeasure2,QualityMeasure20,QualityMeasure21A,QualityMeasure21B,QualityMeasure22,QualityMeasure23,QualityMeasure24,QualityMeasure27,QualityMeasure3,QualityMeasure4,QualityMeasure5,QualityMeasure6,QualityMeasure7,QualityMeasure8A,QualityMeasure8B,QualityMeasure9,TotalNumberOfNotes
+506-NSCLC-01,Ann Arbor,506,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+506-NSCLC-02,Ann Arbor,506,NSCLC,6,6,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,9
+506-NSCLC-03,Ann Arbor,506,NSCLC,6,6,0,0,10,Fail,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Excluded,Pass,Green,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+506-NSCLC-04,Ann Arbor,506,NSCLC,4,4,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+506-NSCLC-05,Ann Arbor,506,NSCLC,5,5,0,0,10,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Pass,10
+506-NSCLC-07,Ann Arbor,506,NSCLC,3,3,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+506-NSCLC-08,Ann Arbor,506,NSCLC,5,5,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+506-NSCLC-09,Ann Arbor,506,NSCLC,5,5,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,11
+506-NSCLC-10,Ann Arbor,506,NSCLC,5,5,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Pass,9
+506-NSCLC-12,Ann Arbor,506,NSCLC,3,3,2,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Fail,,,,Fail,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Pass,Pass,Fail,11
+506-NSCLC-13,Ann Arbor,506,NSCLC,5,5,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,8
+506-NSCLC-14,Ann Arbor,506,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,,Pass,Pass,Fail,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Pass,9
+506-NSCLC-15,Ann Arbor,506,NSCLC,1,1,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Pass,8
+506-NSCLC-16,Ann Arbor,506,NSCLC,5,5,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Pass,9
+506-NSCLC-17,Ann Arbor,506,NSCLC,1,1,0,0,8,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+506-NSCLC-18,Ann Arbor,506,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Excluded,Pass,9
+506-NSCLC-19,Ann Arbor,506,NSCLC,4,4,0,0,10,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+506-NSCLC-20,Ann Arbor,506,NSCLC,1,1,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+506-NSCLC-21,Ann Arbor,506,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+506-NSCLC_Surgery-02,Ann Arbor,506,NSCLC Surgery,4,4,0,0,11,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,,,Pass,,,,Fail,Fail,Pass,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+506-SCLC-01,Ann Arbor,506,SCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+506-SCLC-02,Ann Arbor,506,SCLC,1,1,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Pass,Excluded,,,Fail,Fail,Fail,Fail,Fail,Fail,10
+506-SCLC-03,Ann Arbor,506,SCLC,3,3,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,7
+506-SCLC-04,Ann Arbor,506,SCLC,1,1,0,0,4,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Excluded,,,Pass,Pass,Fail,Excluded,Fail,Excluded,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,4
+506-SCLC-05,Ann Arbor,506,SCLC,0,0,0,0,10,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Excluded,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Fail,Pass,Excluded,Pass,10
+508-NSCLC-01,Atlanta,508,NSCLC,0,0,0,0,4,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Fail,Pass,Excluded,Fail,7
+508-NSCLC-02,Atlanta,508,NSCLC,0,0,0,0,2,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,9
+508-NSCLC-03,Atlanta,508,NSCLC,0,0,0,0,1,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,9
+508-NSCLC-04,Atlanta,508,NSCLC,0,0,0,0,2,Fail,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Fail,Pass,Green,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,8
+508-NSCLC-05,Atlanta,508,NSCLC,2,0,0,0,5,Fail,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,11
+508-NSCLC-06,Atlanta,508,NSCLC,0,0,0,0,5,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,7
+508-NSCLC-07,Atlanta,508,NSCLC,0,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,7
+508-NSCLC-08,Atlanta,508,NSCLC,0,0,0,0,4,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+508-NSCLC-09,Atlanta,508,NSCLC,0,0,0,0,2,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+508-NSCLC-10,Atlanta,508,NSCLC,0,0,0,0,4,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Fail,Pass,Excluded,Pass,Green,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Excluded,Fail,11
+508-NSCLC-11,Atlanta,508,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,12
+508-NSCLC-12,Atlanta,508,NSCLC,0,0,0,0,3,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Excluded,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+508-NSCLC-13,Atlanta,508,NSCLC,0,0,0,0,2,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,10
+508-NSCLC-14,Atlanta,508,NSCLC,0,0,0,0,4,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Fail,7
+508-NSCLC-15,Atlanta,508,NSCLC,0,0,0,0,2,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Fail,Pass,Pass,Pass,Fail,Fail,7
+508-NSCLC-16,Atlanta,508,NSCLC,0,0,0,0,4,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,11
+508-NSCLC-17,Atlanta,508,NSCLC,0,0,0,0,8,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,9
+508-NSCLC-18,Atlanta,508,NSCLC,0,0,0,0,8,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Pass,Pass,Pass,Fail,Pass,Excluded,Fail,10
+508-NSCLC_Surgery-01,Atlanta,508,NSCLC Surgery,0,0,0,0,2,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+508-NSCLC_Surgery-02,Atlanta,508,NSCLC Surgery,0,0,0,0,5,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,Fail,,,Pass,,,,Fail,Fail,Pass,Excluded,,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,9
+508-SCLC-01,Atlanta,508,SCLC,0,0,1,0,3,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Fail,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Fail,Pass,Excluded,Fail,5
+512-NSCLC-01,Baltimore,512,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+512-NSCLC-02,Baltimore,512,NSCLC,1,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+512-NSCLC-03,Baltimore,512,NSCLC,1,0,0,0,12,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,12
+512-NSCLC-05,Baltimore,512,NSCLC,0,0,0,0,10,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,10
+512-NSCLC_Surgery-01,Baltimore,512,NSCLC Surgery,0,0,0,0,8,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Pass,Excluded,,Fail,Pass,Fail,Pass,Pass,Excluded,Fail,8
+512-SCLC-01,Baltimore,512,SCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Pass,Fail,7
+516-NSCLC-01,Bay Pines,516,NSCLC,1,0,0,0,5,Pass,Fail,Pass,Pass,Pass,Pass,Fail,,Fail,,Pass,Pass,Fail,Pass,Green,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+516-NSCLC-02,Bay Pines,516,NSCLC,4,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+516-NSCLC-03,Bay Pines,516,NSCLC,1,0,0,0,3,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Fail,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Excluded,Fail,4
+516-NSCLC-06,Bay Pines,516,NSCLC,4,1,0,0,6,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+516-NSCLC-07,Bay Pines,516,NSCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+516-NSCLC-08,Bay Pines,516,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+516-NSCLC-10,Bay Pines,516,NSCLC,2,0,1,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,14
+516-NSCLC-11,Bay Pines,516,NSCLC,0,0,0,0,6,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,12
+516-NSCLC-12,Bay Pines,516,NSCLC,2,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,8
+516-NSCLC-13,Bay Pines,516,NSCLC,0,0,0,0,8,Pass,Fail,Pass,Fail,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,13
+516-NSCLC-15,Bay Pines,516,NSCLC,3,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Fail,Pass,Excluded,Fail,11
+516-NSCLC-16,Bay Pines,516,NSCLC,3,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,9
+516-NSCLC-17,Bay Pines,516,NSCLC,6,1,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+516-NSCLC-18,Bay Pines,516,NSCLC,3,1,0,0,5,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,7
+516-NSCLC-19,Bay Pines,516,NSCLC,3,0,0,0,11,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Fail,Fail,13
+516-NSCLC-20,Bay Pines,516,NSCLC,2,0,0,0,7,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Fail,8
+516-NSCLC_Surgery-01,Bay Pines,516,NSCLC Surgery,0,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Fail,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+516-NSCLC_Surgery-02,Bay Pines,516,NSCLC Surgery,3,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Fail,Fail,12
+516-NSCLC_Surgery-03,Bay Pines,516,NSCLC Surgery,3,3,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Fail,Pass,Pass,Pass,Fail,,,Pass,,,,Fail,Fail,Fail,Excluded,,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,11
+516-NSCLC_Surgery-04,Bay Pines,516,NSCLC Surgery,2,0,0,0,11,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Pass,Excluded,,Fail,Pass,Pass,Fail,Pass,Fail,Fail,12
+516-SCLC-01,Bay Pines,516,SCLC,2,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,8
+516-SCLC-02,Bay Pines,516,SCLC,2,1,1,0,5,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Fail,Excluded,Fail,12
+516-SCLC-04,Bay Pines,516,SCLC,4,1,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,7
+516-SCLC-06,Bay Pines,516,SCLC,2,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Fail,Pass,Excluded,Fail,13
+516-SCLC-07,Bay Pines,516,SCLC,4,1,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,11
+516-SCLC-08,Bay Pines,516,SCLC,7,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Fail,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Fail,Pass,Excluded,Fail,12
+523-NSCLC-01,Boston,523,NSCLC,5,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,6
+523-NSCLC-02,Boston,523,NSCLC,3,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,10
+523-NSCLC-04,Boston,523,NSCLC,3,0,1,0,6,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Fail,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,6
+523-NSCLC-07,Boston,523,NSCLC,0,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,6
+523-NSCLC-09,Boston,523,NSCLC,2,0,0,0,7,Pass,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,7
+523-NSCLC-11,Boston,523,NSCLC,1,1,0,0,14,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,14
+523-NSCLC-12,Boston,523,NSCLC,1,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+523-NSCLC-13,Boston,523,NSCLC,0,0,0,0,14,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,14
+523-NSCLC-14,Boston,523,NSCLC,2,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+523-NSCLC-15,Boston,523,NSCLC,4,0,0,0,11,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,11
+523-NSCLC-17,Boston,523,NSCLC,4,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+523-NSCLC_Surgery-01,Boston,523,NSCLC Surgery,4,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,Fail,Fail,Pass,Fail,,,Pass,,,,Fail,Fail,Pass,Excluded,,Pass,Pass,Pass,Pass,Pass,Fail,Fail,10
+523-NSCLC_Surgery-02,Boston,523,NSCLC Surgery,2,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Fail,Fail,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+523-NSCLC_Surgery-03,Boston,523,NSCLC Surgery,2,2,0,0,9,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+523-NSCLC_Surgery-04,Boston,523,NSCLC Surgery,1,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Pass,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+523-NSCLC_Surgery-05,Boston,523,NSCLC Surgery,1,0,0,0,15,Pass,Fail,Pass,Fail,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,15
+523-NSCLC_Surgery-06,Boston,523,NSCLC Surgery,2,0,0,0,3,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Fail,Fail,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Fail,Fail,5
+523-SCLC-01,Boston,523,SCLC,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+523-SCLC-02,Boston,523,SCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,,,Pass,Excluded,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,10
+523-SCLC-04,Boston,523,SCLC,0,0,0,0,6,Fail,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,6
+523-SCLC-05,Boston,523,SCLC,0,0,0,0,8,Pass,Fail,Pass,Fail,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,8
+526-NSCLC-01,Bronx,526,NSCLC,4,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,8
+526-NSCLC-02,Bronx,526,NSCLC,1,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+526-NSCLC-03,Bronx,526,NSCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+526-NSCLC-04,Bronx,526,NSCLC,1,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+526-NSCLC-05,Bronx,526,NSCLC,0,0,0,0,12,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,12
+526-NSCLC-06,Bronx,526,NSCLC,2,0,0,0,10,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+526-NSCLC-07,Bronx,526,NSCLC,3,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+526-NSCLC-08,Bronx,526,NSCLC,1,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+526-NSCLC-09,Bronx,526,NSCLC,0,0,0,0,11,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Fail,11
+526-NSCLC-10,Bronx,526,NSCLC,0,0,0,0,15,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,15
+526-NSCLC-11,Bronx,526,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+526-NSCLC-12,Bronx,526,NSCLC,4,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+526-NSCLC_Surgery-01,Bronx,526,NSCLC Surgery,2,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Fail,Fail,,Fail,Fail,Fail,Pass,Fail,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+526-NSCLC_Surgery-02,Bronx,526,NSCLC Surgery,1,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,Excluded,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+526-SCLC-01,Bronx,526,SCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+526-SCLC-02,Bronx,526,SCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Fail,Pass,Pass,Fail,9
+526-SCLC-03,Bronx,526,SCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Pass,Excluded,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+526-SCLC-04,Bronx,526,SCLC,0,0,0,0,18,Fail,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Fail,Pass,Excluded,Fail,19
+528-NSCLC-01,Albany,528,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Pass,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+528-NSCLC-02,Albany,528,NSCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Fail,Fail,Pass,Pass,,Fail,,,,Fail,Excluded,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+528-NSCLC-04,Albany,528,NSCLC,0,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Excluded,Fail,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,6
+528-NSCLC-05,Albany,528,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+528-NSCLC-06,Albany,528,NSCLC,0,0,0,0,3,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+528-NSCLC-07,Albany,528,NSCLC,0,0,0,0,10,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+528-NSCLC-08,Albany,528,NSCLC,4,0,0,0,12,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Fail,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Pass,Fail,14
+528-NSCLC-10,Albany,528,NSCLC,1,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+528-NSCLC-11,Albany,528,NSCLC,0,0,0,0,5,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+528-NSCLC-12,Albany,528,NSCLC,3,0,0,0,6,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+528-NSCLC-13,Albany,528,NSCLC,2,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+528-NSCLC-15,Albany,528,NSCLC,0,0,0,0,3,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,6
+528-NSCLC-17,Albany,528,NSCLC,0,0,0,0,10,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+528-NSCLC-19,Albany,528,NSCLC,5,0,0,0,6,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+528-NSCLC-20,Albany,528,NSCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Excluded,Fail,9
+528-NSCLC-21,Albany,528,NSCLC,2,0,0,0,6,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+528-NSCLC-23,Albany,528,NSCLC,0,0,0,0,11,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,11
+528-NSCLC-25,Albany,528,NSCLC,2,0,0,0,16,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Fail,Pass,Pass,Excluded,Fail,16
+528-NSCLC_Surgery-01,Albany,528,NSCLC Surgery,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Pass,Pass,Fail,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,12
+528-NSCLC_Surgery-02,Albany,528,NSCLC Surgery,1,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,10
+528-SCLC-01,Albany,528,SCLC,1,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Fail,Fail,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,9
+528-SCLC-02,Albany,528,SCLC,0,0,0,0,14,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,14
+528-SCLC-03,Albany,528,SCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+528-SCLC-04,Albany,528,SCLC,1,0,0,0,5,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Pass,Fail,6
+541-NSCLC-01,Cleveland,541,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+541-NSCLC-02,Cleveland,541,NSCLC,1,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,7
+541-NSCLC-03,Cleveland,541,NSCLC,4,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+541-NSCLC-05,Cleveland,541,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+541-NSCLC-06,Cleveland,541,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+541-NSCLC-07,Cleveland,541,NSCLC,1,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Excluded,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+541-NSCLC-08,Cleveland,541,NSCLC,0,0,0,0,11,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+541-NSCLC-09,Cleveland,541,NSCLC,5,0,0,0,12,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+541-NSCLC-10,Cleveland,541,NSCLC,1,0,0,0,11,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,11
+541-NSCLC-11,Cleveland,541,NSCLC,0,0,0,0,11,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,11
+541-NSCLC-12,Cleveland,541,NSCLC,0,0,0,0,13,Pass,Pass,Pass,Fail,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,13
+541-NSCLC-13,Cleveland,541,NSCLC,3,3,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+541-NSCLC-14,Cleveland,541,NSCLC,0,0,0,0,4,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,4
+541-NSCLC-23,Cleveland,541,NSCLC,7,0,0,0,11,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+541-NSCLC-24,Cleveland,541,NSCLC,7,0,0,0,12,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Fail,Fail,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,12
+541-NSCLC-25,Cleveland,541,NSCLC,0,0,0,0,12,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Fail,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+541-NSCLC_Surgery-01,Cleveland,541,NSCLC Surgery,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+541-NSCLC_Surgery-03,Cleveland,541,NSCLC Surgery,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,Fail,Fail,Fail,Fail,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+541-NSCLC_Surgery-04,Cleveland,541,NSCLC Surgery,4,4,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,Fail,Pass,Pass,Fail,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+541-NSCLC_Surgery-05,Cleveland,541,NSCLC Surgery,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Pass,Fail,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+541-SCLC-02,Cleveland,541,SCLC,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+541-SCLC-03,Cleveland,541,SCLC,0,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Pass,Excluded,,,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,5
+541-SCLC-04,Cleveland,541,SCLC,0,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Pass,Fail,5
+541-SCLC-05,Cleveland,541,SCLC,0,0,0,0,13,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,13
+541-SCLC-06,Cleveland,541,SCLC,2,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,6
+541-SCLC-07,Cleveland,541,SCLC,7,0,0,0,12,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Fail,Fail,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,14
+541-SCLC-09,Cleveland,541,SCLC,0,0,0,0,16,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,16
+546-NSCLC-01,Miami,546,NSCLC,0,0,0,0,0,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,8
+546-NSCLC-02,Miami,546,NSCLC,0,0,0,0,3,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,8
+546-NSCLC-03,Miami,546,NSCLC,0,0,0,0,0,Fail,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Pass,Fail,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,7
+546-NSCLC-04,Miami,546,NSCLC,0,0,0,0,3,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+546-NSCLC-05,Miami,546,NSCLC,0,0,0,0,2,Fail,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+546-NSCLC-06,Miami,546,NSCLC,0,0,0,0,3,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+546-NSCLC-08,Miami,546,NSCLC,0,0,0,0,10,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,12
+546-NSCLC-09,Miami,546,NSCLC,0,0,0,0,9,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,14
+546-NSCLC_Surgery-01,Miami,546,NSCLC Surgery,1,0,0,0,3,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Pass,Fail,Pass,,,Pass,,,,Fail,Fail,Pass,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+548-NSCLC-01,West Palm Beach,548,NSCLC,0,0,0,0,8,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,8
+548-NSCLC-03,West Palm Beach,548,NSCLC,0,0,0,0,3,Fail,Pass,Pass,Pass,Pass,Fail,Excluded,,,,Pass,Pass,Fail,Pass,Green,Pass,,,,Fail,Excluded,Excluded,Excluded,Fail,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,3
+548-NSCLC-04,West Palm Beach,548,NSCLC,0,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Fail,Excluded,,Pass,,,,Fail,Fail,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,5
+548-NSCLC-05,West Palm Beach,548,NSCLC,0,0,0,0,6,Fail,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+548-NSCLC-06,West Palm Beach,548,NSCLC,0,0,0,0,6,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,6
+548-NSCLC-07,West Palm Beach,548,NSCLC,0,0,0,0,7,Fail,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+548-NSCLC-08,West Palm Beach,548,NSCLC,1,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Excluded,Excluded,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Fail,9
+548-NSCLC-09,West Palm Beach,548,NSCLC,0,0,0,0,6,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Fail,Fail,Fail,6
+548-NSCLC-10,West Palm Beach,548,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,Fail,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,7
+548-NSCLC-11,West Palm Beach,548,NSCLC,0,0,0,0,8,Fail,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Fail,Fail,9
+548-NSCLC-12,West Palm Beach,548,NSCLC,0,0,0,0,8,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Fail,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Fail,Excluded,Fail,8
+548-NSCLC-13,West Palm Beach,548,NSCLC,0,0,0,0,4,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Pass,Fail,Pass,Green,Pass,,,,Fail,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Fail,Fail,Excluded,Fail,4
+548-NSCLC-14,West Palm Beach,548,NSCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Fail,Excluded,Fail,6
+548-NSCLC-15,West Palm Beach,548,NSCLC,0,0,0,0,7,Fail,Fail,Pass,Fail,Pass,Fail,Pass,Pass,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,7
+548-SCLC-01,West Palm Beach,548,SCLC,1,0,0,0,12,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Fail,Pass,Pass,Pass,Excluded,Fail,12
+549-NSCLC-01,Dallas,549,NSCLC,1,0,0,0,2,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+549-NSCLC-02,Dallas,549,NSCLC,0,0,0,0,0,Pass,Pass,Pass,Fail,Pass,Pass,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+549-NSCLC-03,Dallas,549,NSCLC,1,0,0,0,1,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+549-NSCLC-04,Dallas,549,NSCLC,0,0,0,0,0,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+549-NSCLC-05,Dallas,549,NSCLC,0,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Fail,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+549-NSCLC-06,Dallas,549,NSCLC,0,0,0,0,0,Fail,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+549-NSCLC-07,Dallas,549,NSCLC,0,0,0,0,1,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Excluded,Pass,Green,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Excluded,Fail,7
+549-NSCLC-08,Dallas,549,NSCLC,1,0,0,0,1,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+549-NSCLC-10,Dallas,549,NSCLC,0,0,0,0,0,Pass,Fail,Pass,Pass,Pass,Fail,Fail,,Fail,,Fail,Pass,Fail,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+549-NSCLC-11,Dallas,549,NSCLC,0,0,0,0,0,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+549-NSCLC-12,Dallas,549,NSCLC,0,0,0,0,2,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,7
+549-NSCLC-13,Dallas,549,NSCLC,0,0,0,0,0,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+549-NSCLC-18,Dallas,549,NSCLC,0,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+549-NSCLC-19,Dallas,549,NSCLC,0,0,0,0,0,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,8
+549-NSCLC-22,Dallas,549,NSCLC,0,0,0,0,0,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+549-NSCLC-23,Dallas,549,NSCLC,0,0,0,0,0,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Excluded,Pass,Excluded,Pass,Fail,Fail,Pass,Pass,Pass,Excluded,Fail,7
+549-NSCLC-24,Dallas,549,NSCLC,0,0,0,0,0,Pass,Pass,Pass,Pass,Pass,Fail,Fail,,Fail,,Pass,Fail,Excluded,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+549-NSCLC-25,Dallas,549,NSCLC,0,0,0,0,0,Pass,Pass,Pass,Pass,Pass,Fail,Fail,,Fail,,Fail,Fail,Excluded,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+549-SCLC-01,Dallas,549,SCLC,0,0,0,0,0,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Fail,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,8
+549-SCLC-02,Dallas,549,SCLC,0,0,0,0,1,Fail,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,11
+549-SCLC-03,Dallas,549,SCLC,0,0,0,0,1,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Excluded,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,6
+549-SCLC-04,Dallas,549,SCLC,1,0,0,0,1,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,,,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,12
+549-SCLC-06,Dallas,549,SCLC,0,0,0,0,0,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,12
+549-SCLC-07,Dallas,549,SCLC,0,0,0,0,1,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,10
+549-SCLC-08,Dallas,549,SCLC,0,0,0,0,0,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,7
+549-SCLC-09,Dallas,549,SCLC,0,0,0,0,1,Pass,Pass,Pass,Fail,Pass,Fail,Pass,Pass,Fail,,Pass,Pass,Excluded,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,11
+552-NSCLC-01,Dayton,552,NSCLC,0,0,0,0,5,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Fail,Fail,5
+552-NSCLC-03,Dayton,552,NSCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Fail,Fail,8
+552-NSCLC-04,Dayton,552,NSCLC,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+552-NSCLC-05,Dayton,552,NSCLC,1,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+552-NSCLC-07,Dayton,552,NSCLC,0,0,0,0,10,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Pass,Fail,10
+552-NSCLC-09,Dayton,552,NSCLC,1,0,0,0,11,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Fail,11
+552-NSCLC-10,Dayton,552,NSCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,8
+552-NSCLC-11,Dayton,552,NSCLC,0,0,0,0,10,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Fail,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+552-NSCLC-12,Dayton,552,NSCLC,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Fail,Pass,Pass,Fail,Fail,10
+552-NSCLC-13,Dayton,552,NSCLC,0,0,0,0,8,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+552-NSCLC-15,Dayton,552,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Excluded,Fail,8
+552-NSCLC-17,Dayton,552,NSCLC,1,0,0,0,2,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+552-NSCLC_Surgery-01,Dayton,552,NSCLC Surgery,0,0,0,0,10,Fail,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Pass,Fail,Pass,Pass,Pass,Fail,Fail,11
+552-NSCLC_Surgery-02,Dayton,552,NSCLC Surgery,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+552-NSCLC_Surgery-05,Dayton,552,NSCLC Surgery,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Fail,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,8
+552-NSCLC_Surgery-06,Dayton,552,NSCLC Surgery,0,0,0,0,8,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Fail,Pass,Fail,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+552-SCLC-01,Dayton,552,SCLC,1,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Fail,Excluded,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,7
+552-SCLC-03,Dayton,552,SCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,8
+552-SCLC-04,Dayton,552,SCLC,1,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Fail,Fail,Fail,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+553-NSCLC-01,Detroit,553,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,7
+553-NSCLC-02,Detroit,553,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+553-NSCLC-03,Detroit,553,NSCLC,1,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+553-NSCLC-04,Detroit,553,NSCLC,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+553-NSCLC-05,Detroit,553,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Excluded,Fail,9
+553-NSCLC-06,Detroit,553,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Fail,Pass,Pass,Pass,Fail,Fail,9
+553-NSCLC-07,Detroit,553,NSCLC,0,0,0,0,13,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Fail,Pass,Pass,Pass,Fail,Fail,15
+553-NSCLC-08,Detroit,553,NSCLC,0,0,0,0,13,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,13
+553-NSCLC-09,Detroit,553,NSCLC,0,0,0,0,16,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,16
+553-NSCLC-10,Detroit,553,NSCLC,0,0,0,0,12,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,12
+553-NSCLC-11,Detroit,553,NSCLC,0,0,0,0,13,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,13
+553-NSCLC-12,Detroit,553,NSCLC,0,0,0,0,11,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,11
+553-NSCLC-13,Detroit,553,NSCLC,0,0,1,0,10,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+553-NSCLC-14,Detroit,553,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,9
+553-NSCLC-15,Detroit,553,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+553-NSCLC-16,Detroit,553,NSCLC,0,0,0,0,15,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,15
+553-NSCLC-17,Detroit,553,NSCLC,3,0,1,0,13,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,13
+553-NSCLC-18,Detroit,553,NSCLC,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+553-NSCLC-19,Detroit,553,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Excluded,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+553-NSCLC_Surgery-01,Detroit,553,NSCLC Surgery,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Fail,Pass,Pass,,,Pass,,,,Fail,Excluded,Pass,Excluded,,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,10
+553-SCLC-01,Detroit,553,SCLC,0,0,0,0,11,Fail,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,11
+553-SCLC-02,Detroit,553,SCLC,0,0,1,0,14,Fail,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,14
+553-SCLC-03,Detroit,553,SCLC,1,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+553-SCLC-04,Detroit,553,SCLC,2,0,0,0,15,Fail,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Fail,Pass,Pass,Pass,Excluded,Fail,15
+553-SCLC-05,Detroit,553,SCLC,3,0,0,0,8,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,8
+553-SCLC-06,Detroit,553,SCLC,0,0,0,0,9,Fail,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+558-NSCLC-01,Durham,558,NSCLC,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,9
+558-NSCLC-02,Durham,558,NSCLC,2,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Pass,8
+558-NSCLC-03,Durham,558,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,9
+558-NSCLC-04,Durham,558,NSCLC,3,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+558-NSCLC-05,Durham,558,NSCLC,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+558-NSCLC-06,Durham,558,NSCLC,2,0,0,0,11,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+558-NSCLC-07,Durham,558,NSCLC,0,0,0,0,6,Pass,Pass,Pass,Fail,Pass,Pass,Pass,,Pass,,Fail,Pass,Fail,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,6
+558-NSCLC-08,Durham,558,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,7
+558-NSCLC-09,Durham,558,NSCLC,1,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Excluded,Fail,,Pass,,,,Fail,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+558-NSCLC-10,Durham,558,NSCLC,0,0,0,0,11,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Excluded,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,11
+558-NSCLC-11,Durham,558,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+558-NSCLC-12,Durham,558,NSCLC,0,0,0,0,11,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+558-NSCLC-13,Durham,558,NSCLC,0,0,0,0,19,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,19
+558-NSCLC-14,Durham,558,NSCLC,0,0,0,0,19,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,19
+558-NSCLC-15,Durham,558,NSCLC,5,0,0,0,18,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,18
+558-NSCLC-16,Durham,558,NSCLC,2,0,0,0,19,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,20
+558-NSCLC-17,Durham,558,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Pass,8
+558-NSCLC_Surgery-02,Durham,558,NSCLC Surgery,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Pass,Fail,Pass,,,Pass,,,,Fail,Fail,Pass,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+558-NSCLC_Surgery-03,Durham,558,NSCLC Surgery,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Fail,Fail,Fail,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+558-SCLC-01,Durham,558,SCLC,0,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Fail,Pass,Fail,Fail,4
+558-SCLC-02,Durham,558,SCLC,0,0,0,0,3,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,,,Pass,Excluded,Fail,Excluded,Fail,Excluded,Excluded,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Pass,3
+558-SCLC-03,Durham,558,SCLC,0,0,0,0,5,Pass,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,5
+558-SCLC-04,Durham,558,SCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,9
+558-SCLC-05,Durham,558,SCLC,3,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,6
+558-SCLC-06,Durham,558,SCLC,3,0,1,0,11,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,11
+558-SCLC-07,Durham,558,SCLC,0,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Fail,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,4
+558-SCLC-08,Durham,558,SCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,8
+558-SCLC-09,Durham,558,SCLC,0,0,0,0,14,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,14
+561-NSCLC-01,East Orange,561,NSCLC,4,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,11
+561-NSCLC-02,East Orange,561,NSCLC,4,0,2,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Excluded,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+561-NSCLC-03,East Orange,561,NSCLC,3,0,2,0,13,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,13
+561-NSCLC-04,East Orange,561,NSCLC,2,0,1,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+561-NSCLC-05,East Orange,561,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+561-NSCLC-08,East Orange,561,NSCLC,2,0,0,0,11,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Fail,Pass,Excluded,,Fail,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Pass,Fail,12
+561-NSCLC-09,East Orange,561,NSCLC,2,0,0,0,14,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,14
+561-NSCLC-10,East Orange,561,NSCLC,2,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Fail,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Fail,Pass,Pass,Pass,Fail,Fail,7
+561-NSCLC-11,East Orange,561,NSCLC,3,0,0,0,23,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,27
+561-NSCLC-12,East Orange,561,NSCLC,0,0,0,0,13,Fail,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Fail,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,16
+561-NSCLC_Surgery-01,East Orange,561,NSCLC Surgery,2,0,0,0,10,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Fail,Pass,Pass,,,Fail,,,,Fail,Fail,Pass,Excluded,,Fail,Fail,Pass,Pass,Pass,Fail,Fail,10
+561-SCLC-02,East Orange,561,SCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Fail,,Fail,,Fail,Pass,Fail,,,Pass,Excluded,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,9
+578-NSCLC-02,Hines,578,NSCLC,1,1,0,0,4,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,4
+578-NSCLC-03,Hines,578,NSCLC,1,1,0,0,6,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,6
+578-NSCLC-04,Hines,578,NSCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+578-NSCLC-05,Hines,578,NSCLC,1,1,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+578-NSCLC-06,Hines,578,NSCLC,1,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Fail,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,9
+578-NSCLC-07,Hines,578,NSCLC,5,2,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,7
+578-NSCLC-08,Hines,578,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Excluded,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+578-NSCLC-09,Hines,578,NSCLC,4,4,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+578-NSCLC-10,Hines,578,NSCLC,0,0,0,0,4,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,,,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,4
+578-NSCLC-11,Hines,578,NSCLC,1,1,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+578-NSCLC-12,Hines,578,NSCLC,2,2,0,0,6,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+578-NSCLC-13,Hines,578,NSCLC,6,5,0,0,11,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+578-NSCLC-14,Hines,578,NSCLC,5,4,2,0,13,Fail,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,14
+578-NSCLC-15,Hines,578,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+578-NSCLC-16,Hines,578,NSCLC,1,1,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,8
+578-NSCLC-17,Hines,578,NSCLC,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+578-NSCLC-19,Hines,578,NSCLC,0,0,0,0,10,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,10
+578-NSCLC-20,Hines,578,NSCLC,3,3,0,0,11,Pass,Fail,Pass,Fail,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,11
+578-NSCLC-21,Hines,578,NSCLC,4,3,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+578-NSCLC_Surgery-01,Hines,578,NSCLC Surgery,0,0,0,0,4,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Fail,Fail,6
+578-SCLC-01,Hines,578,SCLC,1,1,0,0,5,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Pass,Fail,6
+578-SCLC-02,Hines,578,SCLC,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+578-SCLC-03,Hines,578,SCLC,4,4,3,0,10,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Fail,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,12
+578-SCLC-05,Hines,578,SCLC,1,1,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,10
+578-SCLC-06,Hines,578,SCLC,2,1,0,0,6,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,6
+578-SCLC-07,Hines,578,SCLC,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,10
+578-SCLC-08,Hines,578,SCLC,3,3,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,7
+580-NSCLC-01,Houston,580,NSCLC,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+580-NSCLC-02,Houston,580,NSCLC,0,0,0,0,10,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,12
+580-NSCLC-03,Houston,580,NSCLC,0,0,0,0,9,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+580-NSCLC-04,Houston,580,NSCLC,1,0,0,0,12,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,12
+580-NSCLC-05,Houston,580,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+580-NSCLC-06,Houston,580,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Fail,,Fail,,Fail,Fail,Fail,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+580-NSCLC-07,Houston,580,NSCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+580-NSCLC-08,Houston,580,NSCLC,0,0,0,0,13,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Pass,17
+580-NSCLC-09,Houston,580,NSCLC,0,0,0,0,10,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Pass,Fail,10
+580-NSCLC-10,Houston,580,NSCLC,0,0,0,0,13,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Fail,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,13
+580-NSCLC-11,Houston,580,NSCLC,0,0,0,0,11,Pass,Pass,Pass,Fail,Pass,Pass,Pass,,Pass,,Pass,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Pass,12
+580-NSCLC-12,Houston,580,NSCLC,0,0,0,0,14,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,14
+580-NSCLC-13,Houston,580,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+580-NSCLC-14,Houston,580,NSCLC,0,0,0,0,13,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,13
+580-NSCLC-15,Houston,580,NSCLC,0,0,0,0,15,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,15
+580-NSCLC-16,Houston,580,NSCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+580-NSCLC-17,Houston,580,NSCLC,2,0,0,0,17,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,19
+580-NSCLC-19,Houston,580,NSCLC,5,0,0,0,15,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,16
+580-NSCLC-20,Houston,580,NSCLC,5,0,0,0,17,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,18
+580-NSCLC_Surgery-01,Houston,580,NSCLC Surgery,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Excluded,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+580-SCLC-01,Houston,580,SCLC,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Fail,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,10
+580-SCLC-02,Houston,580,SCLC,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+580-SCLC-03,Houston,580,SCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Excluded,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,8
+580-SCLC-04,Houston,580,SCLC,0,0,0,0,14,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,16
+580-SCLC-06,Houston,580,SCLC,2,0,0,0,14,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,14
+580-SCLC-07,Houston,580,SCLC,0,0,0,0,12,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Fail,Pass,Excluded,Fail,12
+580-SCLC-08,Houston,580,SCLC,1,0,0,0,15,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Fail,Pass,Fail,Pass,Fail,Fail,15
+583-NSCLC-01,Indianapolis,583,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,8
+583-NSCLC-02,Indianapolis,583,NSCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+583-NSCLC-03,Indianapolis,583,NSCLC,0,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,8
+583-NSCLC-04,Indianapolis,583,NSCLC,1,0,0,0,3,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,3
+583-NSCLC-05,Indianapolis,583,NSCLC,0,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Excluded,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,7
+583-NSCLC-06,Indianapolis,583,NSCLC,1,1,0,0,4,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+583-NSCLC-07,Indianapolis,583,NSCLC,0,0,1,0,5,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Fail,,Pass,,,,Fail,Excluded,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,6
+583-NSCLC-08,Indianapolis,583,NSCLC,4,4,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+583-NSCLC-09,Indianapolis,583,NSCLC,2,2,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Fail,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+583-NSCLC-10,Indianapolis,583,NSCLC,1,1,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Pass,Fail,9
+583-NSCLC-11,Indianapolis,583,NSCLC,1,1,0,0,4,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,7
+583-NSCLC-12,Indianapolis,583,NSCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,6
+583-NSCLC-13,Indianapolis,583,NSCLC,1,1,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,8
+583-NSCLC-14,Indianapolis,583,NSCLC,5,5,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,8
+583-NSCLC-15,Indianapolis,583,NSCLC,2,2,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,7
+583-NSCLC-16,Indianapolis,583,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Fail,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,9
+583-NSCLC-18,Indianapolis,583,NSCLC,0,0,1,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,6
+583-NSCLC-19,Indianapolis,583,NSCLC,2,2,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Fail,7
+583-NSCLC_Surgery-01,Indianapolis,583,NSCLC Surgery,1,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,6
+583-NSCLC_Surgery-02,Indianapolis,583,NSCLC Surgery,0,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,5
+583-SCLC-01,Indianapolis,583,SCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Pass,Fail,7
+583-SCLC-02,Indianapolis,583,SCLC,0,0,1,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Fail,Excluded,Fail,10
+583-SCLC-03,Indianapolis,583,SCLC,0,0,0,0,3,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,6
+583-SCLC-04,Indianapolis,583,SCLC,1,1,1,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Fail,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,8
+583-SCLC-05,Indianapolis,583,SCLC,0,0,0,0,2,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,3
+583-SCLC-06,Indianapolis,583,SCLC,2,2,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+583-SCLC-07,Indianapolis,583,SCLC,2,2,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Pass,Fail,7
+583-SCLC-08,Indianapolis,583,SCLC,0,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,8
+583-SCLC-09,Indianapolis,583,SCLC,1,1,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Pass,Fail,10
+583-SCLC-10,Indianapolis,583,SCLC,1,1,0,0,5,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Fail,Pass,Pass,Pass,Fail,Fail,9
+586-NSCLC-02,Jackson,586,NSCLC,1,1,0,0,10,Fail,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+586-NSCLC-04,Jackson,586,NSCLC,1,1,6,6,10,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+586-NSCLC-05,Jackson,586,NSCLC,0,0,4,4,13,Fail,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,13
+586-NSCLC-07,Jackson,586,NSCLC,0,0,3,3,10,Fail,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Fail,Pass,Pass,Fail,Fail,10
+586-NSCLC-08,Jackson,586,NSCLC,4,4,0,0,12,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,12
+586-NSCLC-10,Jackson,586,NSCLC,0,0,2,1,10,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+586-NSCLC-11,Jackson,586,NSCLC,0,0,1,1,6,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Pass,Excluded,Pass,Green,Pass,,,,Fail,Fail,Fail,Fail,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+586-NSCLC-15,Jackson,586,NSCLC,0,0,3,3,12,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,13
+586-NSCLC-19,Jackson,586,NSCLC,0,0,0,0,15,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,18
+586-NSCLC-22,Jackson,586,NSCLC,0,0,0,0,10,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,11
+586-NSCLC_Surgery-01,Jackson,586,NSCLC Surgery,0,0,0,0,16,Fail,Fail,Pass,Pass,Pass,Fail,Pass,,Fail,Pass,Fail,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Fail,Fail,Excluded,Fail,16
+586-SCLC-01,Jackson,586,SCLC,1,1,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,10
+586-SCLC-02,Jackson,586,SCLC,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Fail,Excluded,Fail,11
+586-SCLC-04,Jackson,586,SCLC,0,0,3,3,8,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,8
+586-SCLC-05,Jackson,586,SCLC,2,2,4,4,12,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,14
+589-NSCLC-01,Kansas City,589,NSCLC,5,5,0,0,9,Fail,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Pass,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,9
+589-NSCLC-03,Kansas City,589,NSCLC,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Excluded,Pass,Green,Pass,,,,Fail,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+589-NSCLC-04,Kansas City,589,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Pass,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+589-NSCLC-05,Kansas City,589,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+589-NSCLC-06,Kansas City,589,NSCLC,0,0,0,0,10,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Fail,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,10
+589-NSCLC-07,Kansas City,589,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+589-NSCLC-08,Kansas City,589,NSCLC,0,0,0,0,12,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+589-NSCLC-10,Kansas City,589,NSCLC,5,5,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+589-NSCLC-11,Kansas City,589,NSCLC,1,1,1,1,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+589-NSCLC-12,Kansas City,589,NSCLC,1,1,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Fail,,,,Fail,Fail,Pass,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+589-NSCLC-14,Kansas City,589,NSCLC,0,0,0,0,11,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Fail,Fail,Pass,Green,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,11
+589-NSCLC-16,Kansas City,589,NSCLC,0,0,0,0,5,Fail,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Fail,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Fail,Fail,5
+589-NSCLC-17,Kansas City,589,NSCLC,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,9
+589-NSCLC-18,Kansas City,589,NSCLC,5,3,4,2,14,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,15
+589-NSCLC_Surgery-01,Kansas City,589,NSCLC Surgery,1,0,0,0,6,Fail,Pass,Pass,Pass,Pass,Fail,Pass,,Fail,Pass,Pass,Pass,Fail,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,6
+589-SCLC-01,Kansas City,589,SCLC,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Pass,Pass,,,Pass,Fail,Pass,Pass,Fail,Pass,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,10
+589-SCLC-02,Kansas City,589,SCLC,6,6,0,0,9,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Pass,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+589-SCLC-04,Kansas City,589,SCLC,0,0,1,1,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+589-SCLC-05,Kansas City,589,SCLC,6,6,0,0,14,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,15
+589-SCLC-06,Kansas City,589,SCLC,0,0,0,0,3,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Fail,Pass,Excluded,Fail,7
+589-SCLC-07,Kansas City,589,SCLC,3,3,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+589-SCLC-08,Kansas City,589,SCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Pass,Fail,,,Pass,Excluded,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Fail,Pass,Pass,Pass,Excluded,Fail,7
+600-NSCLC-02,Long Beach,600,NSCLC,5,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,9
+600-NSCLC-03,Long Beach,600,NSCLC,2,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+600-NSCLC-04,Long Beach,600,NSCLC,4,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+600-NSCLC-05,Long Beach,600,NSCLC,0,0,0,0,11,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+600-NSCLC-06,Long Beach,600,NSCLC,2,0,0,0,4,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+600-NSCLC-07,Long Beach,600,NSCLC,0,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Excluded,Fail,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+600-NSCLC-08,Long Beach,600,NSCLC,0,0,0,0,5,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+600-NSCLC-11,Long Beach,600,NSCLC,0,0,0,0,2,Fail,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+600-NSCLC-12,Long Beach,600,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,7
+600-NSCLC-13,Long Beach,600,NSCLC,1,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Excluded,Fail,8
+600-NSCLC-14,Long Beach,600,NSCLC,0,0,0,0,7,Fail,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Pass,Pass,Fail,,Fail,,,,Fail,Fail,Pass,Excluded,Fail,Fail,Fail,Pass,Pass,Pass,Fail,Fail,8
+600-NSCLC-15,Long Beach,600,NSCLC,0,0,0,0,3,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,9
+600-NSCLC-16,Long Beach,600,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Fail,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,11
+600-NSCLC-17,Long Beach,600,NSCLC,0,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Excluded,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,8
+600-NSCLC-18,Long Beach,600,NSCLC,0,0,0,0,3,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Fail,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,5
+600-NSCLC-19,Long Beach,600,NSCLC,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+600-NSCLC_Surgery-01,Long Beach,600,NSCLC Surgery,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Pass,Pass,Excluded,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+600-NSCLC_Surgery-02,Long Beach,600,NSCLC Surgery,1,0,0,0,4,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Fail,Fail,Excluded,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Fail,Fail,6
+600-SCLC-01,Long Beach,600,SCLC,1,0,0,0,3,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,,,Pass,Fail,Fail,Pass,Fail,Fail,Pass,Excluded,,,Fail,Pass,Pass,Pass,Fail,Fail,8
+600-SCLC-02,Long Beach,600,SCLC,0,0,0,0,3,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Fail,Pass,Fail,Pass,Fail,Fail,10
+614-NSCLC-01,Memphis,614,NSCLC,1,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+614-NSCLC-02,Memphis,614,NSCLC,0,0,0,0,9,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,9
+614-NSCLC-03,Memphis,614,NSCLC,0,0,0,0,9,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+614-NSCLC-04,Memphis,614,NSCLC,0,0,0,0,7,Fail,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,Fail,7
+614-NSCLC-05,Memphis,614,NSCLC,0,0,0,0,6,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+614-NSCLC-06,Memphis,614,NSCLC,0,0,0,0,7,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+614-NSCLC-07,Memphis,614,NSCLC,0,0,0,0,8,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Fail,Pass,Pass,Pass,Fail,8
+614-NSCLC-08,Memphis,614,NSCLC,0,0,0,0,7,Fail,Fail,Pass,Fail,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Fail,Pass,Pass,Excluded,Fail,7
+614-NSCLC-09,Memphis,614,NSCLC,1,0,1,0,8,Fail,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,9
+614-NSCLC-10,Memphis,614,NSCLC,1,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,5
+614-NSCLC-12,Memphis,614,NSCLC,0,0,0,0,10,Fail,Fail,Pass,Fail,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+614-NSCLC-13,Memphis,614,NSCLC,0,0,0,0,8,Fail,Fail,Pass,Pass,Pass,Fail,Fail,,Fail,,Pass,Pass,Excluded,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Pass,Fail,8
+614-NSCLC-15,Memphis,614,NSCLC,0,0,0,0,9,Fail,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+614-NSCLC-16,Memphis,614,NSCLC,1,0,0,0,10,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+614-NSCLC_Surgery-01,Memphis,614,NSCLC Surgery,0,0,0,0,7,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Fail,Pass,Excluded,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Pass,Fail,7
+614-NSCLC_Surgery-02,Memphis,614,NSCLC Surgery,2,0,0,0,9,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,9
+614-SCLC-01,Memphis,614,SCLC,0,0,0,0,7,Fail,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,8
+614-SCLC-02,Memphis,614,SCLC,0,0,0,0,5,Fail,Fail,Pass,Fail,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Excluded,Excluded,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,5
+618-NSCLC-01,Minneapolis,618,NSCLC,1,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+618-NSCLC-02,Minneapolis,618,NSCLC,0,0,0,0,8,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,8
+618-NSCLC-03,Minneapolis,618,NSCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Fail,Pass,Pass,Excluded,Fail,7
+618-NSCLC-04,Minneapolis,618,NSCLC,0,0,0,0,11,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,13
+618-NSCLC-05,Minneapolis,618,NSCLC,3,0,0,0,11,Fail,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Fail,Pass,Pass,Pass,Excluded,Fail,11
+618-NSCLC-06,Minneapolis,618,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,9
+618-NSCLC-07,Minneapolis,618,NSCLC,2,0,1,0,12,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+618-NSCLC-08,Minneapolis,618,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Fail,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,7
+618-NSCLC-09,Minneapolis,618,NSCLC,0,0,0,0,8,Fail,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+618-NSCLC-11,Minneapolis,618,NSCLC,2,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Excluded,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,7
+618-NSCLC-12,Minneapolis,618,NSCLC,2,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+618-NSCLC-13,Minneapolis,618,NSCLC,1,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+618-NSCLC-15,Minneapolis,618,NSCLC,0,0,0,0,9,Fail,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+618-NSCLC-16,Minneapolis,618,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Pass,Fail,Pass,Green,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,8
+618-NSCLC-17,Minneapolis,618,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Fail,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+618-NSCLC-18,Minneapolis,618,NSCLC,2,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+618-NSCLC-19,Minneapolis,618,NSCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+618-NSCLC-20,Minneapolis,618,NSCLC,2,1,0,0,11,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,13
+618-NSCLC_Surgery-01,Minneapolis,618,NSCLC Surgery,0,0,1,0,7,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Fail,Fail,Excluded,,,Pass,,,,Fail,Fail,Pass,Excluded,,Fail,Pass,Pass,Pass,Fail,Excluded,Fail,7
+618-NSCLC_Surgery-03,Minneapolis,618,NSCLC Surgery,1,0,0,0,7,Fail,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,,,Pass,,,,Fail,Fail,Pass,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+618-SCLC-01,Minneapolis,618,SCLC,0,0,1,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Fail,Fail,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,8
+618-SCLC-02,Minneapolis,618,SCLC,1,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,8
+618-SCLC-03,Minneapolis,618,SCLC,1,1,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Fail,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,7
+618-SCLC-04,Minneapolis,618,SCLC,0,0,0,0,8,Fail,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Fail,Pass,Fail,Pass,Excluded,Fail,9
+618-SCLC-05,Minneapolis,618,SCLC,0,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Fail,Pass,Pass,Fail,Fail,6
+618-SCLC-06,Minneapolis,618,SCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Fail,Fail,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+621-NSCLC-01,"Mountain Home, TN",621,NSCLC,0,0,0,0,1,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,6
+621-NSCLC-02,"Mountain Home, TN",621,NSCLC,0,0,0,0,10,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+621-NSCLC-03,"Mountain Home, TN",621,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,11
+621-NSCLC-04,"Mountain Home, TN",621,NSCLC,0,0,0,0,2,Pass,Fail,Pass,Pass,Pass,Fail,Fail,,Fail,,Pass,Pass,Excluded,Pass,Green,Pass,,,,Fail,Excluded,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+621-NSCLC-05,"Mountain Home, TN",621,NSCLC,0,0,0,0,2,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+621-SCLC-01,"Mountain Home, TN",621,SCLC,0,0,0,0,3,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Fail,Pass,Fail,Fail,6
+630-NSCLC-02,Brooklyn,630,NSCLC,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+630-NSCLC-04,Brooklyn,630,NSCLC,0,0,0,0,9,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,12
+630-NSCLC-06,Brooklyn,630,NSCLC,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+630-NSCLC-11,Brooklyn,630,NSCLC,0,0,0,0,13,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,,Fail,Fail,Fail,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,21
+630-NSCLC-14,Brooklyn,630,NSCLC,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+630-NSCLC-15,Brooklyn,630,NSCLC,0,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Fail,6
+630-NSCLC_Surgery-01,Brooklyn,630,NSCLC Surgery,0,0,0,0,7,Fail,Pass,Pass,Pass,Pass,Pass,Excluded,,,,Pass,Pass,Fail,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+630-SCLC-01,Brooklyn,630,SCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+630-SCLC-03,Brooklyn,630,SCLC,0,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+632-NSCLC-01,Northport,632,NSCLC,0,0,0,0,7,Fail,Pass,Pass,Pass,Pass,Fail,Fail,,Fail,,Pass,Pass,Excluded,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+632-NSCLC-02,Northport,632,NSCLC,0,0,0,0,11,Fail,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Fail,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Fail,Pass,Pass,Excluded,Fail,11
+632-NSCLC-05,Northport,632,NSCLC,0,0,0,0,9,Fail,Fail,Pass,Pass,Pass,Fail,Fail,,Fail,,Pass,Fail,Excluded,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+632-NSCLC-06,Northport,632,NSCLC,0,0,0,0,9,Fail,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+632-NSCLC-07,Northport,632,NSCLC,0,0,0,0,10,Fail,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Fail,Pass,Pass,Pass,Excluded,Fail,11
+632-SCLC-01,Northport,632,SCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Fail,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Pass,Fail,11
+632-SCLC-02,Northport,632,SCLC,0,0,0,0,11,Fail,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Fail,Excluded,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Pass,Fail,11
+632-SCLC-03,Northport,632,SCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,,,Pass,Excluded,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,9
+635-NSCLC-01,Oklahoma City,635,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Fail,Pass,Pass,Pass,Fail,Fail,9
+635-NSCLC-03,Oklahoma City,635,NSCLC,3,2,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,9
+635-NSCLC-05,Oklahoma City,635,NSCLC,0,0,2,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Fail,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+635-NSCLC-07,Oklahoma City,635,NSCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Pass,Fail,8
+635-NSCLC-08,Oklahoma City,635,NSCLC,5,5,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Excluded,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+635-NSCLC-09,Oklahoma City,635,NSCLC,5,5,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+635-NSCLC-10,Oklahoma City,635,NSCLC,3,3,0,0,6,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,7
+635-NSCLC-11,Oklahoma City,635,NSCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Fail,Pass,Green,Pass,,,,Fail,Excluded,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+635-NSCLC-12,Oklahoma City,635,NSCLC,0,0,0,0,1,Pass,Pass,Fail,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Excluded,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,1
+635-NSCLC-13,Oklahoma City,635,NSCLC,3,3,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+635-NSCLC-14,Oklahoma City,635,NSCLC,2,2,0,0,5,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+635-NSCLC-15,Oklahoma City,635,NSCLC,2,1,0,0,7,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,13
+635-NSCLC-16,Oklahoma City,635,NSCLC,4,4,1,0,10,Fail,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Fail,Pass,Fail,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+635-NSCLC-19,Oklahoma City,635,NSCLC,0,0,0,0,6,Fail,Pass,Pass,Pass,Pass,Fail,Fail,,Fail,,Fail,Pass,Fail,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Pass,Fail,9
+635-NSCLC_Surgery-01,Oklahoma City,635,NSCLC Surgery,0,0,0,0,4,Fail,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,Fail,Pass,Pass,Excluded,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+635-NSCLC_Surgery-02,Oklahoma City,635,NSCLC Surgery,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Pass,Fail,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Pass,Fail,11
+635-SCLC-01,Oklahoma City,635,SCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,7
+635-SCLC-02,Oklahoma City,635,SCLC,0,0,0,0,4,Fail,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Fail,Excluded,,,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Fail,Pass,Pass,Pass,Excluded,Fail,6
+635-SCLC-03,Oklahoma City,635,SCLC,1,1,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,7
+635-SCLC-06,Oklahoma City,635,SCLC,2,2,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Fail,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Fail,Pass,Excluded,Fail,7
+642-NSCLC-01,Philadelphia,642,NSCLC,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,10
+642-NSCLC-02,Philadelphia,642,NSCLC,0,0,0,0,12,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+642-NSCLC-03,Philadelphia,642,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Fail,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,9
+642-NSCLC-04,Philadelphia,642,NSCLC,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,,Fail,Pass,Excluded,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,13
+642-NSCLC-05,Philadelphia,642,NSCLC,2,0,0,0,13,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,16
+642-NSCLC-06,Philadelphia,642,NSCLC,3,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,14
+642-NSCLC-07,Philadelphia,642,NSCLC,1,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,14
+642-NSCLC-08,Philadelphia,642,NSCLC,1,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,12
+642-NSCLC-09,Philadelphia,642,NSCLC,0,0,0,0,11,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Fail,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Fail,Pass,Fail,Fail,14
+642-NSCLC-10,Philadelphia,642,NSCLC,1,0,0,0,13,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Fail,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,15
+642-NSCLC-11,Philadelphia,642,NSCLC,4,0,4,0,11,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,14
+642-NSCLC-12,Philadelphia,642,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,12
+642-NSCLC-13,Philadelphia,642,NSCLC,0,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,16
+642-NSCLC-14,Philadelphia,642,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Fail,Fail,10
+642-NSCLC-15,Philadelphia,642,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+642-NSCLC_Surgery-01,Philadelphia,642,NSCLC Surgery,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,,,Pass,,,,Fail,Pass,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+642-NSCLC_Surgery-02,Philadelphia,642,NSCLC Surgery,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Pass,Pass,Fail,,,Pass,,,,Fail,Fail,Fail,Excluded,,Pass,Pass,Pass,Pass,Pass,Fail,Fail,14
+642-NSCLC_Surgery-03,Philadelphia,642,NSCLC Surgery,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Excluded,,,Pass,,,,Fail,Fail,Fail,Excluded,,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,14
+642-NSCLC_Surgery-04,Philadelphia,642,NSCLC Surgery,1,0,0,0,11,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+642-NSCLC_Surgery-05,Philadelphia,642,NSCLC Surgery,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Fail,Pass,,,Pass,,,,Fail,Fail,Pass,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+642-SCLC-01,Philadelphia,642,SCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Pass,Fail,8
+642-SCLC-02,Philadelphia,642,SCLC,3,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,15
+642-SCLC-03,Philadelphia,642,SCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Fail,Pass,Excluded,Fail,7
+642-SCLC-04,Philadelphia,642,SCLC,5,0,0,0,8,Pass,Pass,Pass,Fail,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,11
+646-NSCLC-02,Pittsburgh,646,NSCLC,0,0,0,0,5,Pass,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+646-NSCLC-03,Pittsburgh,646,NSCLC,2,2,0,0,6,Fail,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+646-NSCLC-04,Pittsburgh,646,NSCLC,0,0,0,0,5,Fail,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+646-NSCLC-05,Pittsburgh,646,NSCLC,0,0,1,0,8,Fail,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+646-NSCLC-06,Pittsburgh,646,NSCLC,0,0,0,0,7,Fail,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+646-NSCLC-07,Pittsburgh,646,NSCLC,0,0,2,2,11,Fail,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,11
+646-NSCLC-08,Pittsburgh,646,NSCLC,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+646-NSCLC-09,Pittsburgh,646,NSCLC,4,4,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+646-NSCLC-10,Pittsburgh,646,NSCLC,5,4,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+646-NSCLC-11,Pittsburgh,646,NSCLC,3,3,0,0,10,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,12
+646-NSCLC-12,Pittsburgh,646,NSCLC,3,2,0,0,7,Fail,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+646-NSCLC-13,Pittsburgh,646,NSCLC,2,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+646-NSCLC-15,Pittsburgh,646,NSCLC,0,0,0,0,7,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Fail,,Pass,,,,Fail,Excluded,Pass,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,8
+646-NSCLC-16,Pittsburgh,646,NSCLC,0,0,0,0,7,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+646-NSCLC-19,Pittsburgh,646,NSCLC,3,0,0,0,8,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,8
+646-NSCLC-20,Pittsburgh,646,NSCLC,0,0,0,0,5,Fail,Pass,Pass,Fail,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+646-NSCLC-21,Pittsburgh,646,NSCLC,0,0,1,0,7,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Fail,Fail,8
+646-NSCLC_Surgery-01,Pittsburgh,646,NSCLC Surgery,5,5,0,0,6,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Fail,Fail,,,Pass,,,,Fail,Fail,Pass,Excluded,,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,7
+646-SCLC-01,Pittsburgh,646,SCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Fail,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,8
+646-SCLC-03,Pittsburgh,646,SCLC,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,13
+646-SCLC-04,Pittsburgh,646,SCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,8
+646-SCLC-05,Pittsburgh,646,SCLC,1,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,10
+652-NSCLC-01,Richmond,652,NSCLC,1,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,8
+652-NSCLC-03,Richmond,652,NSCLC,3,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,8
+652-NSCLC-05,Richmond,652,NSCLC,2,0,0,0,4,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+652-NSCLC-07,Richmond,652,NSCLC,0,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,9
+652-NSCLC-09,Richmond,652,NSCLC,1,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+652-NSCLC-10,Richmond,652,NSCLC,0,0,1,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,11
+652-NSCLC-11,Richmond,652,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+652-NSCLC-12,Richmond,652,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,,,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Excluded,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+652-NSCLC-13,Richmond,652,NSCLC,0,0,2,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+652-NSCLC-14,Richmond,652,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,10
+652-NSCLC-15,Richmond,652,NSCLC,0,0,0,0,9,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,15
+652-NSCLC-17,Richmond,652,NSCLC,1,1,0,0,5,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,,,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+652-NSCLC-18,Richmond,652,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+652-NSCLC-19,Richmond,652,NSCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,14
+652-NSCLC-20,Richmond,652,NSCLC,0,0,0,0,5,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+652-NSCLC-21,Richmond,652,NSCLC,4,0,1,0,7,Fail,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,13
+652-NSCLC-22,Richmond,652,NSCLC,0,0,0,0,4,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+652-NSCLC_Surgery-01,Richmond,652,NSCLC Surgery,0,0,0,0,2,Pass,Pass,Fail,Pass,Pass,Pass,Fail,,Fail,Fail,Fail,Pass,Fail,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,4
+652-NSCLC_Surgery-02,Richmond,652,NSCLC Surgery,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Fail,Pass,Fail,Pass,Fail,,,Pass,,,,Fail,Fail,Pass,Excluded,,Pass,Pass,Pass,Fail,Pass,Excluded,Fail,9
+652-NSCLC_Surgery-03,Richmond,652,NSCLC Surgery,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Pass,Pass,Fail,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+652-SCLC-01,Richmond,652,SCLC,3,0,0,0,5,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,6
+652-SCLC-02,Richmond,652,SCLC,1,0,0,0,3,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Fail,Pass,Excluded,Fail,4
+652-SCLC-03,Richmond,652,SCLC,0,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Pass,Fail,7
+652-SCLC-05,Richmond,652,SCLC,1,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,8
+652-SCLC-06,Richmond,652,SCLC,1,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,,,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,12
+652-SCLC-07,Richmond,652,SCLC,0,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Pass,Fail,,Fail,,Pass,Pass,Fail,,,Pass,Excluded,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,7
+652-SCLC-08,Richmond,652,SCLC,0,0,0,0,3,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Fail,Pass,Pass,Pass,Fail,Fail,13
+652-SCLC-10,Richmond,652,SCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,14
+657-NSCLC-01,St. Louis,657,NSCLC,1,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+657-NSCLC-02,St. Louis,657,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+657-NSCLC-03,St. Louis,657,NSCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,10
+657-NSCLC-04,St. Louis,657,NSCLC,0,0,0,0,0,Fail,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Excluded,,Pass,,,,Fail,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,0
+657-NSCLC-05,St. Louis,657,NSCLC,0,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+657-NSCLC-07,St. Louis,657,NSCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,11
+657-NSCLC-08,St. Louis,657,NSCLC,0,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+657-NSCLC-09,St. Louis,657,NSCLC,0,0,0,0,0,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,2
+657-NSCLC-10,St. Louis,657,NSCLC,0,0,0,0,1,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+657-NSCLC-12,St. Louis,657,NSCLC,0,0,0,0,2,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Excluded,,Pass,,,,Fail,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,3
+657-NSCLC-13,St. Louis,657,NSCLC,0,0,0,0,3,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,13
+657-NSCLC-14,St. Louis,657,NSCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+657-NSCLC-15,St. Louis,657,NSCLC,0,0,0,0,0,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Excluded,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+657-NSCLC-16,St. Louis,657,NSCLC,0,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+657-NSCLC-17,St. Louis,657,NSCLC,1,0,0,0,2,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Excluded,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+657-NSCLC-18,St. Louis,657,NSCLC,0,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Excluded,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+657-NSCLC-19,St. Louis,657,NSCLC,0,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+657-NSCLC-20,St. Louis,657,NSCLC,0,0,0,0,3,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+657-NSCLC_Surgery-01,St. Louis,657,NSCLC Surgery,0,0,0,0,3,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Fail,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Fail,Fail,12
+657-NSCLC_Surgery-02,St. Louis,657,NSCLC Surgery,0,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+657-SCLC-02,St. Louis,657,SCLC,1,1,0,0,5,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,5
+657-SCLC-03,St. Louis,657,SCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Fail,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,8
+663-NSCLC-01,Seattle,663,NSCLC,4,1,0,0,10,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Pass,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,10
+663-NSCLC-02,Seattle,663,NSCLC,0,0,0,0,4,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,4
+663-NSCLC-03,Seattle,663,NSCLC,2,0,0,0,7,Fail,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+663-NSCLC-04,Seattle,663,NSCLC,3,1,0,0,6,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,7
+663-NSCLC-05,Seattle,663,NSCLC,1,0,0,0,5,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,5
+663-NSCLC-07,Seattle,663,NSCLC,4,1,0,0,6,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+663-NSCLC-08,Seattle,663,NSCLC,1,0,0,0,8,Fail,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+663-NSCLC-09,Seattle,663,NSCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+663-NSCLC-10,Seattle,663,NSCLC,2,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,Excluded,,Pass,,,,Fail,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Pass,4
+663-NSCLC-11,Seattle,663,NSCLC,0,0,0,0,6,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,6
+663-NSCLC-15,Seattle,663,NSCLC,1,0,0,0,2,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,2
+663-NSCLC-16,Seattle,663,NSCLC,0,0,0,0,8,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Fail,Pass,Green,Pass,,,,Fail,Excluded,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,8
+663-NSCLC-17,Seattle,663,NSCLC,2,0,0,0,10,Fail,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,11
+663-NSCLC-18,Seattle,663,NSCLC,4,0,1,0,10,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,10
+663-NSCLC-19,Seattle,663,NSCLC,0,0,0,0,7,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+663-NSCLC-20,Seattle,663,NSCLC,6,0,0,0,12,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Fail,Excluded,Pass,12
+667-NSCLC-01,Shreveport,667,NSCLC,0,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,5
+667-NSCLC-03,Shreveport,667,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+667-NSCLC-05,Shreveport,667,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Excluded,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+667-NSCLC-06,Shreveport,667,NSCLC,1,0,0,0,7,Fail,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+667-NSCLC-07,Shreveport,667,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+667-NSCLC-08,Shreveport,667,NSCLC,0,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,4
+667-NSCLC-09,Shreveport,667,NSCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,6
+667-NSCLC-10,Shreveport,667,NSCLC,0,0,0,0,6,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+667-NSCLC-11,Shreveport,667,NSCLC,0,0,0,0,3,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,3
+667-NSCLC-12,Shreveport,667,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+667-NSCLC-13,Shreveport,667,NSCLC,0,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Fail,Fail,,Fail,,Fail,Pass,Excluded,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+667-NSCLC-14,Shreveport,667,NSCLC,2,2,0,0,8,Fail,Fail,Pass,Fail,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+667-NSCLC-15,Shreveport,667,NSCLC,0,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,6
+667-NSCLC-16,Shreveport,667,NSCLC,3,3,0,0,6,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,6
+667-NSCLC-17,Shreveport,667,NSCLC,0,0,1,1,5,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,5
+667-NSCLC-18,Shreveport,667,NSCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Fail,Fail,,Fail,,Pass,Pass,Fail,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+667-NSCLC-19,Shreveport,667,NSCLC,0,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,6
+667-NSCLC-20,Shreveport,667,NSCLC,0,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+667-NSCLC-21,Shreveport,667,NSCLC,0,0,0,0,12,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,12
+667-NSCLC_Surgery-02,Shreveport,667,NSCLC Surgery,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+667-SCLC-01,Shreveport,667,SCLC,0,0,0,0,7,Fail,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,7
+667-SCLC-02,Shreveport,667,SCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,9
+667-SCLC-04,Shreveport,667,SCLC,2,2,0,0,6,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Excluded,Excluded,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,6
+667-SCLC-05,Shreveport,667,SCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,7
+667-SCLC-06,Shreveport,667,SCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Fail,Pass,Pass,Pass,Fail,Fail,8
+667-SCLC-07,Shreveport,667,SCLC,0,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,6
+667-SCLC-08,Shreveport,667,SCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,7
+671-NSCLC-01,San Antonio,671,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+671-NSCLC-02,San Antonio,671,NSCLC,0,0,1,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+671-NSCLC-03,San Antonio,671,NSCLC,0,0,0,0,7,Fail,Pass,Pass,Pass,Pass,Fail,Fail,,Fail,,Pass,Pass,Fail,Pass,Green,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,7
+671-NSCLC-04,San Antonio,671,NSCLC,0,0,1,0,10,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+671-NSCLC-05,San Antonio,671,NSCLC,1,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+671-NSCLC-06,San Antonio,671,NSCLC,0,0,0,0,2,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Pass,Excluded,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,3
+671-NSCLC-07,San Antonio,671,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+671-NSCLC-08,San Antonio,671,NSCLC,0,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+671-NSCLC-09,San Antonio,671,NSCLC,1,0,1,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Fail,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+671-NSCLC-10,San Antonio,671,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+671-NSCLC-11,San Antonio,671,NSCLC,0,0,0,0,7,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,8
+671-NSCLC-12,San Antonio,671,NSCLC,0,0,0,0,5,Pass,Fail,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+671-NSCLC-13,San Antonio,671,NSCLC,1,0,0,0,9,Fail,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+671-NSCLC-14,San Antonio,671,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,8
+671-NSCLC-15,San Antonio,671,NSCLC,1,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+671-NSCLC-16,San Antonio,671,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Pass,Excluded,Pass,Green,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+671-NSCLC-17,San Antonio,671,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+671-NSCLC-18,San Antonio,671,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+671-NSCLC-19,San Antonio,671,NSCLC,0,0,0,0,8,Fail,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,8
+671-SCLC-01,San Antonio,671,SCLC,1,0,2,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+671-SCLC-03,San Antonio,671,SCLC,1,0,0,0,4,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,4
+671-SCLC-04,San Antonio,671,SCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,7
+671-SCLC-05,San Antonio,671,SCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,7
+671-SCLC-06,San Antonio,671,SCLC,0,0,0,0,6,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,6
+671-SCLC-07,San Antonio,671,SCLC,1,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,8
+671-SCLC-08,San Antonio,671,SCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Fail,,,Pass,Excluded,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,10
+672-NSCLC-01,San Juan,672,NSCLC,0,0,1,0,10,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,10
+672-NSCLC-02,San Juan,672,NSCLC,0,0,0,0,7,Fail,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Pass,Fail,8
+672-NSCLC-03,San Juan,672,NSCLC,0,0,0,0,9,Fail,Fail,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+673-NSCLC-02,Tampa,673,NSCLC,1,0,0,0,9,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Fail,Fail,9
+673-NSCLC-04,Tampa,673,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,8
+673-NSCLC-06,Tampa,673,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+673-NSCLC-07,Tampa,673,NSCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,8
+673-NSCLC-08,Tampa,673,NSCLC,0,0,0,0,13,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,13
+673-NSCLC-09,Tampa,673,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+673-NSCLC-10,Tampa,673,NSCLC,0,0,0,0,7,Fail,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+673-NSCLC-13,Tampa,673,NSCLC,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,10
+673-NSCLC-14,Tampa,673,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+673-NSCLC-15,Tampa,673,NSCLC,0,0,1,0,12,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,13
+673-NSCLC-17,Tampa,673,NSCLC,0,0,0,0,18,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,18
+673-NSCLC-19,Tampa,673,NSCLC,2,0,0,0,17,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,18
+673-NSCLC-21,Tampa,673,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+673-NSCLC-23,Tampa,673,NSCLC,0,0,0,0,11,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,11
+673-NSCLC_Surgery-01,Tampa,673,NSCLC Surgery,0,0,0,0,11,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+673-SCLC-01,Tampa,673,SCLC,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Fail,Pass,Fail,Fail,11
+673-SCLC-03,Tampa,673,SCLC,0,0,0,0,16,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,16
+673-SCLC-04,Tampa,673,SCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Pass,Fail,Pass,,,Pass,Fail,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Fail,Pass,Excluded,Fail,7
+673-SCLC-05,Tampa,673,SCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,8
+673-SCLC-08,Tampa,673,SCLC,1,0,0,0,17,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Fail,Pass,Excluded,Fail,17
+688-NSCLC-01,Washington,688,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,8
+688-NSCLC-02,Washington,688,NSCLC,2,2,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Excluded,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,8
+688-NSCLC-04,Washington,688,NSCLC,0,0,1,1,9,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,9
+688-NSCLC-05,Washington,688,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,10
+688-NSCLC-06,Washington,688,NSCLC,4,4,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Fail,9
+688-NSCLC-07,Washington,688,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Fail,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,10
+688-NSCLC-08,Washington,688,NSCLC,3,3,0,0,9,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+688-NSCLC-10,Washington,688,NSCLC,3,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+688-NSCLC-11,Washington,688,NSCLC,0,0,0,0,1,Fail,Pass,Pass,Fail,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Excluded,,Pass,,,,Fail,Fail,Excluded,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,4
+688-NSCLC-12,Washington,688,NSCLC,0,0,0,0,2,Fail,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Excluded,Excluded,Excluded,Pass,Pass,Pass,Pass,Fail,Pass,Fail,Fail,2
+688-NSCLC-15,Washington,688,NSCLC,0,0,0,0,3,Fail,Pass,Pass,Fail,Pass,Fail,Fail,,Fail,,Pass,Pass,Fail,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Fail,Pass,Pass,Pass,Excluded,Fail,11
+688-NSCLC-16,Washington,688,NSCLC,1,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,7
+688-NSCLC-17,Washington,688,NSCLC,1,1,0,0,11,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,13
+688-SCLC-02,Washington,688,SCLC,5,5,1,1,13,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,14
+688-SCLC-03,Washington,688,SCLC,3,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,8
+691-NSCLC-01,Los Angeles,691,NSCLC,2,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+691-NSCLC-02,Los Angeles,691,NSCLC,0,0,0,0,8,Fail,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Pass,8
+691-NSCLC-03,Los Angeles,691,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Pass,Pass,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+691-NSCLC-04,Los Angeles,691,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Excluded,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Excluded,Fail,7
+691-NSCLC-05,Los Angeles,691,NSCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Pass,Pass,Excluded,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+691-NSCLC-06,Los Angeles,691,NSCLC,0,0,0,0,8,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Fail,Pass,Pass,Fail,Pass,8
+691-NSCLC-07,Los Angeles,691,NSCLC,0,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,5
+691-NSCLC-08,Los Angeles,691,NSCLC,1,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Pass,10
+691-NSCLC-09,Los Angeles,691,NSCLC,0,0,0,0,6,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+691-NSCLC-11,Los Angeles,691,NSCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Excluded,Excluded,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,7
+691-NSCLC_Surgery-01,Los Angeles,691,NSCLC Surgery,3,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Fail,Pass,,Fail,Pass,Pass,Fail,Pass,,,Pass,,,,Fail,Fail,Pass,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+691-NSCLC_Surgery-02,Los Angeles,691,NSCLC Surgery,0,0,0,0,8,Fail,Pass,Pass,Pass,Pass,Fail,Pass,,Pass,,Fail,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+691-SCLC-01,Los Angeles,691,SCLC,0,0,0,0,3,Fail,Fail,Fail,Pass,Pass,Pass,Fail,,Fail,,Pass,Pass,Fail,,,Pass,Excluded,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Fail,Fail,3
+691-SCLC-02,Los Angeles,691,SCLC,3,0,0,0,6,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,,Fail,Fail,Pass,,,Pass,Pass,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,7
+695-NSCLC-01,Milwaukee,695,NSCLC,0,0,0,0,8,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,8
+695-NSCLC-02,Milwaukee,695,NSCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,8
+695-NSCLC-04,Milwaukee,695,NSCLC,0,0,0,0,5,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+695-NSCLC-05,Milwaukee,695,NSCLC,0,0,0,0,9,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Pass,Fail,10
+695-NSCLC-07,Milwaukee,695,NSCLC,2,0,2,1,10,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Fail,Pass,Pass,Pass,Fail,Fail,10
+695-NSCLC-08,Milwaukee,695,NSCLC,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,10
+695-NSCLC-09,Milwaukee,695,NSCLC,0,0,1,1,12,Fail,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+695-NSCLC-10,Milwaukee,695,NSCLC,0,0,1,1,6,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Fail,Fail,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,8
+695-NSCLC-12,Milwaukee,695,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,7
+695-NSCLC-14,Milwaukee,695,NSCLC,3,0,1,0,9,Fail,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Fail,Fail,Pass,Excluded,,Pass,,,,Fail,Excluded,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,9
+695-NSCLC-15,Milwaukee,695,NSCLC,0,0,3,2,12,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Fail,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,12
+695-NSCLC-19,Milwaukee,695,NSCLC,0,0,0,0,5,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,Excluded,,Pass,,,,Fail,Fail,Pass,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,6
+695-NSCLC-20,Milwaukee,695,NSCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,8
+695-NSCLC-23,Milwaukee,695,NSCLC,0,0,2,0,14,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Fail,Fail,Pass,Green,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,16
+695-NSCLC-24,Milwaukee,695,NSCLC,0,0,0,0,11,Fail,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Fail,Fail,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,12
+695-NSCLC-25,Milwaukee,695,NSCLC,0,0,0,0,15,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,Pass,,Pass,,,,Fail,Fail,Fail,Excluded,Pass,Fail,Pass,Pass,Pass,Pass,Excluded,Fail,15
+695-NSCLC_Surgery-01,Milwaukee,695,NSCLC Surgery,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Fail,Fail,Pass,Fail,,,Pass,,,,Fail,Fail,Fail,Excluded,,Pass,Pass,Pass,Pass,Pass,Excluded,Pass,10
+695-NSCLC_Surgery-02,Milwaukee,695,NSCLC Surgery,0,0,0,0,6,Pass,Pass,Pass,Fail,Pass,Fail,Pass,,Fail,Pass,Fail,Pass,Fail,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Pass,Pass,Fail,Fail,6
+695-NSCLC_Surgery-03,Milwaukee,695,NSCLC Surgery,0,0,0,0,10,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Fail,Fail,Pass,,,Pass,,,,Fail,Fail,Pass,Excluded,,Fail,Pass,Pass,Pass,Pass,Pass,Pass,11
+695-NSCLC_Surgery-04,Milwaukee,695,NSCLC Surgery,0,0,0,0,12,Pass,Fail,Pass,Fail,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,,,,Fail,Fail,Fail,Excluded,,Fail,Pass,Pass,Fail,Pass,Excluded,Fail,12
+695-SCLC-01,Milwaukee,695,SCLC,0,0,0,0,7,Pass,Fail,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Pass,Pass,,,Pass,Excluded,Fail,Excluded,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Pass,Pass,10
+695-SCLC-02,Milwaukee,695,SCLC,0,0,0,0,8,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Pass,Fail,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,9
+695-SCLC-03,Milwaukee,695,SCLC,0,0,0,0,14,Pass,Pass,Pass,Pass,Pass,Pass,Pass,,Pass,,Fail,Pass,Pass,,,Pass,Pass,Pass,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Fail,14
+695-SCLC-04,Milwaukee,695,SCLC,0,0,0,0,6,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Pass,Pass,,,Pass,Excluded,Pass,Pass,Fail,Fail,Pass,Excluded,,,Pass,Pass,Pass,Pass,Excluded,Pass,6
+695-SCLC-05,Milwaukee,695,SCLC,0,0,0,0,7,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Pass,Fail,,Fail,Fail,Pass,,,Pass,Excluded,Fail,Pass,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Pass,7
+695-SCLC-08,Milwaukee,695,SCLC,0,0,0,0,5,Pass,Fail,Pass,Pass,Pass,Pass,Fail,Fail,Fail,,Pass,Pass,Pass,,,Pass,Excluded,Fail,Excluded,Fail,Fail,Fail,Excluded,,,Pass,Pass,Pass,Pass,Fail,Pass,7
